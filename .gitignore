@@ -1,0 +1,7 @@
+# Raw Archive.org captures, original recordings, CDX inventory and encoder
+# scratch space used by the import scripts
+/.cache/
+
+__pycache__/
+
+.DS_Store

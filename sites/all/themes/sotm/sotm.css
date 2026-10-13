@@ -1,0 +1,307 @@
+/* 2011 Manuela Schmidt */
+/* 1.-3.4.11 class altalks /al */
+
+body {
+	background-color: #ddd;
+	background-image:url(/sites/all/themes/sotm/img/bg4.png);
+	background-repeat:no-repeat;
+	background-position:top center;
+	margin:0; padding:0;
+	font-family:"Helvetica Neue",Arial,Helvetica,sans-serif;
+	color:#333;
+	overflow: -moz-scrollbars-vertical;
+}
+
+.showgrid { background-color:#fff; background-image:none; }
+
+div.container {
+	width: 960px;
+	margin:0 auto;
+	background-color:#fff;
+}
+
+#header { float:right; padding-right:25px; }
+
+a { text-decoration:none; color:#39c; }
+a:link, a:focus, a:active, a:visited { color:#39c; }
+.col-center a:hover { background-color:#eee; }
+.col-center a:hover img { background-color:#fff; }
+
+.col-center { margin-bottom:50px; }
+.col-center p { width:98%; }
+.col-center h1, .col-center h2 { margin-top:0; padding-top:0; line-height:1; }
+
+ul.menu {
+	margin:0;
+	padding:0 10px 0 10px;
+}
+ul.menu ul.menu { padding:0 5px 0 5px; }
+ul.menu ul.menu ul.menu { padding:0; }
+
+ul.menu li {
+	list-style-type:none;
+	list-style-image:none;
+	border-bottom:1px solid #ddd;
+	padding:0;
+	margin:0;
+}
+ul.menu li a {
+	font-size:1.3em;
+	font-weight:bold;
+	padding:3px 10px 4px 10px;
+	text-transform:uppercase;
+	display:block;
+	margin-top:1px;
+}
+ul.menu li a:hover {
+	background-color:#ddd;
+}
+ul.menu li a.active {
+	color:#39c;
+	font-weight:bold;
+}
+ul.menu li ul.menu {
+	padding-bottom:5px;
+}
+ul.menu li ul.menu li {
+	border-bottom:none;
+}
+ul.menu li ul.menu li a {
+	font-weight:normal;
+	font-size:1em;
+	text-transform:none;
+	padding: 0 5px 0 5px;
+	margin:0px;
+}
+ul.menu li ul.menu li a.active {
+	background-color: #ddd;
+}
+ul.menu li ul.menu ul.menu li { padding:0; }
+ul.menu li ul.menu ul.menu li a { padding:0 15px; }
+ul.menu li ul.menu ul.menu ul.menu li a { padding:0 30px; }
+ul.menu li.active-trail {
+	background-color:#efefef;
+}
+
+h3 {
+	margin: 30px 10px 8px 0;
+	color:#666;
+	font-size:1.2em;
+	font-weight:bold;
+	padding:5px 0;
+	border-bottom:2px solid #ccc;
+}
+.col-left h3, .col-right h3, .col-right .rightcol {
+	margin: 0 10px 2px 10px;
+	padding:5px 10px;
+}
+.col-right .twitcol {
+	padding:5px 10px;
+}
+
+h4 { 
+	color:#39c;
+	font-weight:bold;
+	padding:20px 0 15px 0;
+	margin:0;
+}
+
+h1, h2, h4, .serif, caption { }
+h1, h2, h3, h5, h6, caption { color:#333; }
+h1, h2 { font-size:2em; }
+h1 { padding-top:10px; }
+
+.breadcrumb, .meta { font-size:0.9em; padding-top:2px;  }
+div.node div.meta { 
+	margin:40px 0 0 0; 
+	line-height:120%;
+}
+.front div.node { clear:both; }
+.front div.node div.meta {
+	margin:0 0 20px 0;
+}
+.front .meta, 
+.front .meta .submitted,
+.front .meta .submitted a,
+.front .comment_add, 
+.front .meta + .node-links, 
+.front .meta + .node-links > ul.links,
+.front .meta + .node-links > ul.links li,
+.front .meta + .node-links a { 
+	display: none; 
+	margin: 0;
+	padding: 0;
+}
+.front h2 {
+	padding:20px 0;
+	line-height:120%;
+	font-size:18px;
+}
+.front div.node p {
+	margin:0; padding:0; padding-bottom:10px;
+}
+
+#user-login-form  { 
+	text-align:left;
+}
+
+#footer {
+	padding:0 0 80px 0;
+	font-size:0.9em;
+}
+.col-left {  }
+
+div.node {
+	border-bottom:none;
+	padding:0 0 0 0;
+	margin:0;
+}
+
+.organisers {
+	padding:15px 0 0 10px;
+}
+.organisers img { padding-bottom:5px; }
+
+.imp {
+	font-size:1.4em;
+	padding-bottom:15px;
+}
+
+.drupalbox { 
+	display:inline-block;
+	vertical-align:middle; 
+}
+
+
+.feed {
+	float:right;
+	padding:20px 0 20px 0;
+	font-size:0.9em;
+}	
+
+.feed img { 
+	display:inline-block;
+	vertical-align:middle; 
+	margin:0 0 2px 5px;
+}
+.feed a:hover { background-color:#fff; }
+
+ol.nlist {
+	list-style-type:upper-alpha;
+	color:#39c;
+	font-weight:bold;
+	margin:0;
+}
+ol.nlist li { padding-bottom:35px; }
+ol.nlist p {
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:normal;
+	color:#333;
+	padding:0;margin:0;
+	padding-top:7px;
+}
+
+div.form-item {
+	margin-left:20px; }
+
+.supporters h4 {
+	/* text-transform: uppercase; */
+	color: #222222;
+	padding-bottom: 0.2em;
+}
+
+abbr {
+	border-width: 0;
+}
+
+q {
+	font-style: italic;
+}
+
+p.quotationSrc {
+	text-align: right;
+}
+
+blockquote, blockquote > p {
+	margin-bottom: 0;
+}
+
+div.webTwoZero img {
+	width: 16px;
+	height: 16px;
+	border: 0;
+}
+
+div.twitterblock_tweets ul {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+div.twitterblock_tweets ul li {
+	/*border-bottom: 1px solid #999999;*/
+	list-style: none inside none;
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 1.2em;
+	margin-left: 0.3em;
+	font-size: 0.9em;
+	text-indent: -0.5em;
+}
+
+caption {
+	background-color: white;
+        color: #666;
+        font-size: 1.2em;
+        font-weight: bold;
+	padding-top: 2em;
+}
+
+td.numeric {
+	text-align: right;
+}
+
+tr.talkDurationSum th {
+	border: 0;
+	text-align: right;
+}
+
+tr.talkDurationSum td {
+	font-weight: bold;
+	border-top: 2px solid black;
+}
+
+/* 1.4.11 /al */
+.altalks a:link { color:#333333; }
+.altalks a:visited { color:#333333; }
+.altalks a:hover { color:#333333; }
+.altalks a:active { color:#333333; }
+.altalks a:focus { color:#333333; }
+
+.altalks table {
+    border-collapse:collapse;
+    font-family: Arial Narrow, Verdana, Arial, Helvetica, Sans-Serif;
+}
+.altalks td {
+    border:medium solid white;
+    margin:0;
+    padding:5px;
+    vertical-align:top;
+}
+.altalks .timeline {
+    border:0;
+    font-weight:bold;
+    text-align:center;
+    vertical-align:top;
+    background-color:#F7F7F7;
+}
+.altalks .break {
+    font-family:Verdana, Arial, Helvetica, Sans-Serif;
+    text-align:center;
+    background-color:#F7F7F7;
+}
+.altalks th {
+    font-family:Verdana, Arial, Helvetica, Sans-Serif;
+    font-weight:bold;
+    text-align:center;
+}

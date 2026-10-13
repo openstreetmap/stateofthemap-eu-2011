@@ -1,0 +1,57 @@
+/* print/sotm.css - reconstructed for the static archive of sotm-eu.org.
+   The original file was never captured by the Wayback Machine; these rules
+   are the ".altalks" schedule styles from sites/all/themes/sotm/sotm.css
+   plus the highlight behaviour used by the printable schedule. */
+
+body {
+  margin: 1em;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  color: #333;
+  background: #fff;
+}
+h2 { margin: 1em 0 0.5em 0; }
+a { text-decoration: none; color: #39c; }
+
+.altalks a:link,
+.altalks a:visited,
+.altalks a:hover,
+.altalks a:active,
+.altalks a:focus { color: #333333; }
+
+.altalks table {
+  border-collapse: collapse;
+  font-family: Arial Narrow, Verdana, Arial, Helvetica, Sans-Serif;
+}
+.altalks td {
+  border: medium solid white;
+  margin: 0;
+  padding: 5px;
+  vertical-align: top;
+}
+.altalks .timeline {
+  border: 0;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: top;
+  background-color: #F7F7F7;
+}
+.altalks .break {
+  font-family: Verdana, Arial, Helvetica, Sans-Serif;
+  text-align: center;
+  background-color: #F7F7F7;
+}
+.altalks th {
+  font-family: Verdana, Arial, Helvetica, Sans-Serif;
+  font-weight: bold;
+  text-align: center;
+}
+.altalks td.highlight {
+  outline: 3px solid #333;
+  font-weight: bold;
+}
+
+@media print {
+  body { font-size: 9pt; }
+  .altalks td { border-color: #fff; }
+  .altalks td.highlight { outline: 2px solid #000; }
+}

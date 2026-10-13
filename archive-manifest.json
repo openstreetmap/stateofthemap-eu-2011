@@ -1,0 +1,3422 @@
+[
+ {
+  "path": "about/index.html",
+  "route": "/about/",
+  "source": "http://sotm-eu.org/about",
+  "timestamp": "20110307170017",
+  "wayback": "https://web.archive.org/web/20110307170017/http://sotm-eu.org/about",
+  "mime_type": "text/html",
+  "bytes": 11963
+ },
+ {
+  "path": "attendees/country/index.html",
+  "route": "/attendees/country/",
+  "source": "http://sotm-eu.org/attendees?order=country",
+  "timestamp": "20111101043135",
+  "wayback": "https://web.archive.org/web/20111101043135/http://sotm-eu.org/attendees?order=country",
+  "mime_type": "text/html",
+  "bytes": 75059
+ },
+ {
+  "path": "attendees/index.html",
+  "route": "/attendees/",
+  "source": "http://sotm-eu.org/attendees",
+  "timestamp": "20130602085001",
+  "wayback": "https://web.archive.org/web/20130602085001/http://sotm-eu.org/attendees",
+  "mime_type": "text/html",
+  "bytes": 75462
+ },
+ {
+  "path": "cfp/index.html",
+  "route": "/cfp/",
+  "source": "http://sotm-eu.org/cfp",
+  "timestamp": "20120902123109",
+  "wayback": "https://web.archive.org/web/20120902123109/http://sotm-eu.org/cfp",
+  "mime_type": "text/html",
+  "bytes": 14421
+ },
+ {
+  "path": "cfp/submission/index.html",
+  "route": "/cfp/submission/",
+  "source": "http://sotm-eu.org/cfp/submission",
+  "timestamp": "20101228044745",
+  "wayback": "https://web.archive.org/web/20101228044745/http://sotm-eu.org/cfp/submission",
+  "mime_type": "text/html",
+  "bytes": 8496
+ },
+ {
+  "path": "favicon.ico",
+  "route": "/favicon.ico",
+  "source": "http://sotm-eu.org/favicon.ico",
+  "timestamp": "20130622180911",
+  "wayback": "https://web.archive.org/web/20130622180911/http://sotm-eu.org/favicon.ico",
+  "mime_type": "image/x-icon",
+  "bytes": 1406
+ },
+ {
+  "path": "files/print.gif",
+  "route": "/files/print.gif",
+  "source": "http://sotm-eu.org/files/print.gif",
+  "timestamp": "20121215151740",
+  "wayback": "https://web.archive.org/web/20121215151740/http://sotm-eu.org/files/print.gif",
+  "mime_type": "image/gif",
+  "bytes": 1039
+ },
+ {
+  "path": "flags/at.gif",
+  "route": "/flags/at.gif",
+  "source": "http://sotm-eu.org/flags/at.gif",
+  "timestamp": "20121215125736",
+  "wayback": "https://web.archive.org/web/20121215125736/http://sotm-eu.org/flags/at.gif",
+  "mime_type": "image/gif",
+  "bytes": 108
+ },
+ {
+  "path": "flags/be.gif",
+  "route": "/flags/be.gif",
+  "source": "http://sotm-eu.org/flags/be.gif",
+  "timestamp": "20121215120010",
+  "wayback": "https://web.archive.org/web/20121215120010/http://sotm-eu.org/flags/be.gif",
+  "mime_type": "image/gif",
+  "bytes": 128
+ },
+ {
+  "path": "flags/bo.gif",
+  "route": "/flags/bo.gif",
+  "source": "http://sotm-eu.org/flags/bo.gif",
+  "timestamp": "20130622161344",
+  "wayback": "https://web.archive.org/web/20130622161344/http://sotm-eu.org/flags/bo.gif",
+  "mime_type": "image/gif",
+  "bytes": 103
+ },
+ {
+  "path": "flags/by.gif",
+  "route": "/flags/by.gif",
+  "source": "http://sotm-eu.org/flags/by.gif",
+  "timestamp": "20130622154146",
+  "wayback": "https://web.archive.org/web/20130622154146/http://sotm-eu.org/flags/by.gif",
+  "mime_type": "image/gif",
+  "bytes": 878
+ },
+ {
+  "path": "flags/ca.gif",
+  "route": "/flags/ca.gif",
+  "source": "http://sotm-eu.org/flags/ca.gif",
+  "timestamp": "20130730162352",
+  "wayback": "https://web.archive.org/web/20130730162352/http://sotm-eu.org/flags/ca.gif",
+  "mime_type": "image/gif",
+  "bytes": 128
+ },
+ {
+  "path": "flags/ch.gif",
+  "route": "/flags/ch.gif",
+  "source": "http://sotm-eu.org/flags/ch.gif",
+  "timestamp": "20121215113230",
+  "wayback": "https://web.archive.org/web/20121215113230/http://sotm-eu.org/flags/ch.gif",
+  "mime_type": "image/gif",
+  "bytes": 126
+ },
+ {
+  "path": "flags/cz.gif",
+  "route": "/flags/cz.gif",
+  "source": "http://sotm-eu.org/flags/cz.gif",
+  "timestamp": "20111101072852",
+  "wayback": "https://web.archive.org/web/20111101072852/http://sotm-eu.org/flags/cz.gif",
+  "mime_type": "image/gif",
+  "bytes": 110
+ },
+ {
+  "path": "flags/de.gif",
+  "route": "/flags/de.gif",
+  "source": "http://sotm-eu.org/flags/de.gif",
+  "timestamp": "20121215113219",
+  "wayback": "https://web.archive.org/web/20121215113219/http://sotm-eu.org/flags/de.gif",
+  "mime_type": "image/gif",
+  "bytes": 80
+ },
+ {
+  "path": "flags/ee.gif",
+  "route": "/flags/ee.gif",
+  "source": "http://sotm-eu.org/flags/ee.gif",
+  "timestamp": "20130622161900",
+  "wayback": "https://web.archive.org/web/20130622161900/http://sotm-eu.org/flags/ee.gif",
+  "mime_type": "image/gif",
+  "bytes": 99
+ },
+ {
+  "path": "flags/es.gif",
+  "route": "/flags/es.gif",
+  "source": "http://sotm-eu.org/flags/es.gif",
+  "timestamp": "20111101061935",
+  "wayback": "https://web.archive.org/web/20111101061935/http://sotm-eu.org/flags/es.gif",
+  "mime_type": "image/gif",
+  "bytes": 110
+ },
+ {
+  "path": "flags/fr.gif",
+  "route": "/flags/fr.gif",
+  "source": "http://sotm-eu.org/flags/fr.gif",
+  "timestamp": "20111101074052",
+  "wayback": "https://web.archive.org/web/20111101074052/http://sotm-eu.org/flags/fr.gif",
+  "mime_type": "image/gif",
+  "bytes": 93
+ },
+ {
+  "path": "flags/gb.gif",
+  "route": "/flags/gb.gif",
+  "source": "http://sotm-eu.org/flags/gb.gif",
+  "timestamp": "20121215124444",
+  "wayback": "https://web.archive.org/web/20121215124444/http://sotm-eu.org/flags/gb.gif",
+  "mime_type": "image/gif",
+  "bytes": 145
+ },
+ {
+  "path": "flags/hr.gif",
+  "route": "/flags/hr.gif",
+  "source": "http://sotm-eu.org/flags/hr.gif",
+  "timestamp": "20121215111638",
+  "wayback": "https://web.archive.org/web/20121215111638/http://sotm-eu.org/flags/hr.gif",
+  "mime_type": "image/gif",
+  "bytes": 114
+ },
+ {
+  "path": "flags/hu.gif",
+  "route": "/flags/hu.gif",
+  "source": "http://sotm-eu.org/flags/hu.gif",
+  "timestamp": "20111101050418",
+  "wayback": "https://web.archive.org/web/20111101050418/http://sotm-eu.org/flags/hu.gif",
+  "mime_type": "image/gif",
+  "bytes": 83
+ },
+ {
+  "path": "flags/ie.gif",
+  "route": "/flags/ie.gif",
+  "source": "http://sotm-eu.org/flags/ie.gif",
+  "timestamp": "20121215145142",
+  "wayback": "https://web.archive.org/web/20121215145142/http://sotm-eu.org/flags/ie.gif",
+  "mime_type": "image/gif",
+  "bytes": 120
+ },
+ {
+  "path": "flags/it.gif",
+  "route": "/flags/it.gif",
+  "source": "http://sotm-eu.org/flags/it.gif",
+  "timestamp": "20121215162639",
+  "wayback": "https://web.archive.org/web/20121215162639/http://sotm-eu.org/flags/it.gif",
+  "mime_type": "image/gif",
+  "bytes": 93
+ },
+ {
+  "path": "flags/jp.gif",
+  "route": "/flags/jp.gif",
+  "source": "http://sotm-eu.org/flags/jp.gif",
+  "timestamp": "20111101054947",
+  "wayback": "https://web.archive.org/web/20111101054947/http://sotm-eu.org/flags/jp.gif",
+  "mime_type": "image/gif",
+  "bytes": 111
+ },
+ {
+  "path": "flags/nl.gif",
+  "route": "/flags/nl.gif",
+  "source": "http://sotm-eu.org/flags/nl.gif",
+  "timestamp": "20121215134615",
+  "wayback": "https://web.archive.org/web/20121215134615/http://sotm-eu.org/flags/nl.gif",
+  "mime_type": "image/gif",
+  "bytes": 102
+ },
+ {
+  "path": "flags/pl.gif",
+  "route": "/flags/pl.gif",
+  "source": "http://sotm-eu.org/flags/pl.gif",
+  "timestamp": "20130730151331",
+  "wayback": "https://web.archive.org/web/20130730151331/http://sotm-eu.org/flags/pl.gif",
+  "mime_type": "image/gif",
+  "bytes": 117
+ },
+ {
+  "path": "flags/ro.gif",
+  "route": "/flags/ro.gif",
+  "source": "http://sotm-eu.org/flags/ro.gif",
+  "timestamp": "20130622154031",
+  "wayback": "https://web.archive.org/web/20130622154031/http://sotm-eu.org/flags/ro.gif",
+  "mime_type": "image/gif",
+  "bytes": 119
+ },
+ {
+  "path": "flags/ru.gif",
+  "route": "/flags/ru.gif",
+  "source": "http://sotm-eu.org/flags/ru.gif",
+  "timestamp": "20121215151247",
+  "wayback": "https://web.archive.org/web/20121215151247/http://sotm-eu.org/flags/ru.gif",
+  "mime_type": "image/gif",
+  "bytes": 108
+ },
+ {
+  "path": "flags/se.gif",
+  "route": "/flags/se.gif",
+  "source": "http://sotm-eu.org/flags/se.gif",
+  "timestamp": "20130622164758",
+  "wayback": "https://web.archive.org/web/20130622164758/http://sotm-eu.org/flags/se.gif",
+  "mime_type": "image/gif",
+  "bytes": 108
+ },
+ {
+  "path": "flags/si.gif",
+  "route": "/flags/si.gif",
+  "source": "http://sotm-eu.org/flags/si.gif",
+  "timestamp": "20121215140049",
+  "wayback": "https://web.archive.org/web/20121215140049/http://sotm-eu.org/flags/si.gif",
+  "mime_type": "image/gif",
+  "bytes": 140
+ },
+ {
+  "path": "flags/sk.gif",
+  "route": "/flags/sk.gif",
+  "source": "http://sotm-eu.org/flags/sk.gif",
+  "timestamp": "20121215124200",
+  "wayback": "https://web.archive.org/web/20121215124200/http://sotm-eu.org/flags/sk.gif",
+  "mime_type": "image/gif",
+  "bytes": 118
+ },
+ {
+  "path": "flags/ua.gif",
+  "route": "/flags/ua.gif",
+  "source": "http://sotm-eu.org/flags/ua.gif",
+  "timestamp": "20111101075332",
+  "wayback": "https://web.archive.org/web/20111101075332/http://sotm-eu.org/flags/ua.gif",
+  "mime_type": "image/gif",
+  "bytes": 111
+ },
+ {
+  "path": "flags/us.gif",
+  "route": "/flags/us.gif",
+  "source": "http://sotm-eu.org/flags/us.gif",
+  "timestamp": "20121215121433",
+  "wayback": "https://web.archive.org/web/20121215121433/http://sotm-eu.org/flags/us.gif",
+  "mime_type": "image/gif",
+  "bytes": 125
+ },
+ {
+  "path": "impressum/index.html",
+  "route": "/impressum/",
+  "source": "http://sotm-eu.org/impressum",
+  "timestamp": "20121215165603",
+  "wayback": "https://web.archive.org/web/20121215165603/http://sotm-eu.org/impressum",
+  "mime_type": "text/html",
+  "bytes": 13118
+ },
+ {
+  "path": "index.html",
+  "route": "/",
+  "source": "http://sotm-eu.org/",
+  "timestamp": "20131107001623",
+  "wayback": "https://web.archive.org/web/20131107001623/http://sotm-eu.org/",
+  "mime_type": "text/html",
+  "bytes": 22567
+ },
+ {
+  "path": "js/widget.js",
+  "route": "/js/widget.js",
+  "source": "http://sotm-eu.org/js/widget.js",
+  "timestamp": "20130114084940",
+  "wayback": "https://web.archive.org/web/20130114084940/http://sotm-eu.org/js/widget.js",
+  "mime_type": "application/javascript",
+  "bytes": 29952
+ },
+ {
+  "path": "node/12/index.html",
+  "route": "/node/12/",
+  "source": "http://sotm-eu.org/node/12",
+  "timestamp": "20111101001302",
+  "wayback": "https://web.archive.org/web/20111101001302/http://sotm-eu.org/node/12",
+  "mime_type": "text/html",
+  "bytes": 10328
+ },
+ {
+  "path": "node/13/index.html",
+  "route": "/node/13/",
+  "source": "http://sotm-eu.org/node/13",
+  "timestamp": "20111011001835",
+  "wayback": "https://web.archive.org/web/20111011001835/http://sotm-eu.org/node/13",
+  "mime_type": "text/html",
+  "bytes": 10016
+ },
+ {
+  "path": "node/14/index.html",
+  "route": "/node/14/",
+  "source": "http://sotm-eu.org/node/14",
+  "timestamp": "20111011002857",
+  "wayback": "https://web.archive.org/web/20111011002857/http://sotm-eu.org/node/14",
+  "mime_type": "text/html",
+  "bytes": 10195
+ },
+ {
+  "path": "node/17/index.html",
+  "route": "/node/17/",
+  "source": "http://sotm-eu.org/node/17",
+  "timestamp": "20111011001558",
+  "wayback": "https://web.archive.org/web/20111011001558/http://sotm-eu.org/node/17",
+  "mime_type": "text/html",
+  "bytes": 11216
+ },
+ {
+  "path": "node/2/index.html",
+  "route": "/node/2/",
+  "source": "http://sotm-eu.org/node/2",
+  "timestamp": "20110102182901",
+  "wayback": "https://web.archive.org/web/20110102182901/http://sotm-eu.org/node/2",
+  "mime_type": "text/html",
+  "bytes": 7705
+ },
+ {
+  "path": "node/22/index.html",
+  "route": "/node/22/",
+  "source": "http://sotm-eu.org/node/22",
+  "timestamp": "20111011001932",
+  "wayback": "https://web.archive.org/web/20111011001932/http://sotm-eu.org/node/22",
+  "mime_type": "text/html",
+  "bytes": 10573
+ },
+ {
+  "path": "node/32/index.html",
+  "route": "/node/32/",
+  "source": "http://sotm-eu.org/node/32",
+  "timestamp": "20111011002656",
+  "wayback": "https://web.archive.org/web/20111011002656/http://sotm-eu.org/node/32",
+  "mime_type": "text/html",
+  "bytes": 10491
+ },
+ {
+  "path": "node/34/index.html",
+  "route": "/node/34/",
+  "source": "http://sotm-eu.org/node/34",
+  "timestamp": "20110730125410",
+  "wayback": "https://web.archive.org/web/20110730125410/http://sotm-eu.org/node/34",
+  "mime_type": "text/html",
+  "bytes": 11165
+ },
+ {
+  "path": "node/35/index.html",
+  "route": "/node/35/",
+  "source": "http://sotm-eu.org/node/35",
+  "timestamp": "20111101082252",
+  "wayback": "https://web.archive.org/web/20111101082252/http://sotm-eu.org/node/35",
+  "mime_type": "text/html",
+  "bytes": 10516
+ },
+ {
+  "path": "node/36/index.html",
+  "route": "/node/36/",
+  "source": "http://sotm-eu.org/node/36",
+  "timestamp": "20111011001006",
+  "wayback": "https://web.archive.org/web/20111011001006/http://sotm-eu.org/node/36",
+  "mime_type": "text/html",
+  "bytes": 10384
+ },
+ {
+  "path": "node/37/index.html",
+  "route": "/node/37/",
+  "source": "http://sotm-eu.org/node/37",
+  "timestamp": "20111011002634",
+  "wayback": "https://web.archive.org/web/20111011002634/http://sotm-eu.org/node/37",
+  "mime_type": "text/html",
+  "bytes": 10900
+ },
+ {
+  "path": "node/39/index.html",
+  "route": "/node/39/",
+  "source": "http://sotm-eu.org/node/39",
+  "timestamp": "20121215054650",
+  "wayback": "https://web.archive.org/web/20121215054650/http://sotm-eu.org/node/39",
+  "mime_type": "text/html",
+  "bytes": 10858
+ },
+ {
+  "path": "node/40/index.html",
+  "route": "/node/40/",
+  "source": "http://sotm-eu.org/node/40",
+  "timestamp": "20121215041539",
+  "wayback": "https://web.archive.org/web/20121215041539/http://sotm-eu.org/node/40",
+  "mime_type": "text/html",
+  "bytes": 10371
+ },
+ {
+  "path": "node/41/index.html",
+  "route": "/node/41/",
+  "source": "http://sotm-eu.org/node/41",
+  "timestamp": "20121215051128",
+  "wayback": "https://web.archive.org/web/20121215051128/http://sotm-eu.org/node/41",
+  "mime_type": "text/html",
+  "bytes": 10990
+ },
+ {
+  "path": "node/43/index.html",
+  "route": "/node/43/",
+  "source": "http://sotm-eu.org/node/43",
+  "timestamp": "20111101043112",
+  "wayback": "https://web.archive.org/web/20111101043112/http://sotm-eu.org/node/43",
+  "mime_type": "text/html",
+  "bytes": 9886
+ },
+ {
+  "path": "node/45/index.html",
+  "route": "/node/45/",
+  "source": "http://sotm-eu.org/node/45",
+  "timestamp": "20121222013901",
+  "wayback": "https://web.archive.org/web/20121222013901/http://sotm-eu.org/node/45",
+  "mime_type": "text/html",
+  "bytes": 11399
+ },
+ {
+  "path": "node/48/index.html",
+  "route": "/node/48/",
+  "source": "http://sotm-eu.org/node/48",
+  "timestamp": "20111101074623",
+  "wayback": "https://web.archive.org/web/20111101074623/http://sotm-eu.org/node/48",
+  "mime_type": "text/html",
+  "bytes": 10112
+ },
+ {
+  "path": "node/8/index.html",
+  "route": "/node/8/",
+  "source": "http://sotm-eu.org/node/8",
+  "timestamp": "20121215151851",
+  "wayback": "https://web.archive.org/web/20121215151851/http://sotm-eu.org/node/8",
+  "mime_type": "text/html",
+  "bytes": 14309
+ },
+ {
+  "path": "node/index.html",
+  "route": "/node/",
+  "source": "http://sotm-eu.org/node",
+  "timestamp": "20111101082417",
+  "wayback": "https://web.archive.org/web/20111101082417/http://sotm-eu.org/node",
+  "mime_type": "text/html",
+  "bytes": 22788
+ },
+ {
+  "path": "node/page/1/index.html",
+  "route": "/node/page/1/",
+  "source": "http://sotm-eu.org/node?page=1",
+  "timestamp": "20111011002718",
+  "wayback": "https://web.archive.org/web/20111011002718/http://sotm-eu.org/node?page=1",
+  "mime_type": "text/html",
+  "bytes": 13842
+ },
+ {
+  "path": "persons/Al Pascual.jpg",
+  "route": "/persons/Al Pascual.jpg",
+  "source": "http://sotm-eu.org/persons/Al%20Pascual.jpg",
+  "timestamp": "20121215141403",
+  "wayback": "https://web.archive.org/web/20121215141403/http://sotm-eu.org/persons/Al%20Pascual.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 1857
+ },
+ {
+  "path": "persons/AlexanderErifiu.jpg",
+  "route": "/persons/AlexanderErifiu.jpg",
+  "source": "http://sotm-eu.org/persons/AlexanderErifiu.jpg",
+  "timestamp": "20121215114400",
+  "wayback": "https://web.archive.org/web/20121215114400/http://sotm-eu.org/persons/AlexanderErifiu.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 22958
+ },
+ {
+  "path": "persons/AlexanderZipf.jpg",
+  "route": "/persons/AlexanderZipf.jpg",
+  "source": "http://sotm-eu.org/persons/AlexanderZipf.jpg",
+  "timestamp": "20121215153747",
+  "wayback": "https://web.archive.org/web/20121215153747/http://sotm-eu.org/persons/AlexanderZipf.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 1599
+ },
+ {
+  "path": "persons/AndreiBejan.jpg",
+  "route": "/persons/AndreiBejan.jpg",
+  "source": "http://sotm-eu.org/persons/AndreiBejan.jpg",
+  "timestamp": "20121215143958",
+  "wayback": "https://web.archive.org/web/20121215143958/http://sotm-eu.org/persons/AndreiBejan.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 13156
+ },
+ {
+  "path": "persons/Andy Allan.png",
+  "route": "/persons/Andy Allan.png",
+  "source": "http://sotm-eu.org/persons/Andy%20Allan.png",
+  "timestamp": "20121215131830",
+  "wayback": "https://web.archive.org/web/20121215131830/http://sotm-eu.org/persons/Andy%20Allan.png",
+  "mime_type": "image/png",
+  "bytes": 9393
+ },
+ {
+  "path": "persons/AngiVoss.png",
+  "route": "/persons/AngiVoss.png",
+  "source": "http://sotm-eu.org/persons/AngiVoss.png",
+  "timestamp": "20121215124141",
+  "wayback": "https://web.archive.org/web/20121215124141/http://sotm-eu.org/persons/AngiVoss.png",
+  "mime_type": "image/png",
+  "bytes": 7305
+ },
+ {
+  "path": "persons/Ben Abelshausen.png",
+  "route": "/persons/Ben Abelshausen.png",
+  "source": "http://sotm-eu.org/persons/Ben%20Abelshausen.png",
+  "timestamp": "20121215162701",
+  "wayback": "https://web.archive.org/web/20121215162701/http://sotm-eu.org/persons/Ben%20Abelshausen.png",
+  "mime_type": "image/png",
+  "bytes": 8815
+ },
+ {
+  "path": "persons/Breki.jpg",
+  "route": "/persons/Breki.jpg",
+  "source": "http://sotm-eu.org/persons/Breki.jpg",
+  "timestamp": "20121215120024",
+  "wayback": "https://web.archive.org/web/20121215120024/http://sotm-eu.org/persons/Breki.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 3575
+ },
+ {
+  "path": "persons/Chico.png",
+  "route": "/persons/Chico.png",
+  "source": "http://sotm-eu.org/persons/Chico.png",
+  "timestamp": "20121215162651",
+  "wayback": "https://web.archive.org/web/20121215162651/http://sotm-eu.org/persons/Chico.png",
+  "mime_type": "image/png",
+  "bytes": 10628
+ },
+ {
+  "path": "persons/DennisL.jpg",
+  "route": "/persons/DennisL.jpg",
+  "source": "http://sotm-eu.org/persons/DennisL.jpg",
+  "timestamp": "20121215124220",
+  "wayback": "https://web.archive.org/web/20121215124220/http://sotm-eu.org/persons/DennisL.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 2247
+ },
+ {
+  "path": "persons/Jochen Topf.jpg",
+  "route": "/persons/Jochen Topf.jpg",
+  "source": "http://sotm-eu.org/persons/Jochen%20Topf.jpg",
+  "timestamp": "20121215134853",
+  "wayback": "https://web.archive.org/web/20121215134853/http://sotm-eu.org/persons/Jochen%20Topf.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 2586
+ },
+ {
+  "path": "persons/JosefKauer.jpg",
+  "route": "/persons/JosefKauer.jpg",
+  "source": "http://sotm-eu.org/persons/JosefKauer.jpg",
+  "timestamp": "20121215124433",
+  "wayback": "https://web.archive.org/web/20121215124433/http://sotm-eu.org/persons/JosefKauer.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 2111
+ },
+ {
+  "path": "persons/KeldorZ.jpg",
+  "route": "/persons/KeldorZ.jpg",
+  "source": "http://sotm-eu.org/persons/KeldorZ.jpg",
+  "timestamp": "20121215145230",
+  "wayback": "https://web.archive.org/web/20121215145230/http://sotm-eu.org/persons/KeldorZ.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 2245
+ },
+ {
+  "path": "persons/Kerridge.png",
+  "route": "/persons/Kerridge.png",
+  "source": "http://sotm-eu.org/persons/Kerridge.png",
+  "timestamp": "20121215115820",
+  "wayback": "https://web.archive.org/web/20121215115820/http://sotm-eu.org/persons/Kerridge.png",
+  "mime_type": "image/png",
+  "bytes": 3057
+ },
+ {
+  "path": "persons/LivingWithDragons.jpg",
+  "route": "/persons/LivingWithDragons.jpg",
+  "source": "http://sotm-eu.org/persons/LivingWithDragons.jpg",
+  "timestamp": "20121215151751",
+  "wayback": "https://web.archive.org/web/20121215151751/http://sotm-eu.org/persons/LivingWithDragons.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 2909
+ },
+ {
+  "path": "persons/Lulu-Ann.jpg",
+  "route": "/persons/Lulu-Ann.jpg",
+  "source": "http://sotm-eu.org/persons/Lulu-Ann.jpg",
+  "timestamp": "20121215162602",
+  "wayback": "https://web.archive.org/web/20121215162602/http://sotm-eu.org/persons/Lulu-Ann.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 1922
+ },
+ {
+  "path": "persons/Markus.jpg",
+  "route": "/persons/Markus.jpg",
+  "source": "http://sotm-eu.org/persons/Markus.jpg",
+  "timestamp": "20121215134000",
+  "wayback": "https://web.archive.org/web/20121215134000/http://sotm-eu.org/persons/Markus.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 2446
+ },
+ {
+  "path": "persons/MichalP.jpg",
+  "route": "/persons/MichalP.jpg",
+  "source": "http://sotm-eu.org/persons/MichalP.jpg",
+  "timestamp": "20121215134503",
+  "wayback": "https://web.archive.org/web/20121215134503/http://sotm-eu.org/persons/MichalP.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 6470
+ },
+ {
+  "path": "persons/Miroff.png",
+  "route": "/persons/Miroff.png",
+  "source": "http://sotm-eu.org/persons/Miroff.png",
+  "timestamp": "20121215130029",
+  "wayback": "https://web.archive.org/web/20121215130029/http://sotm-eu.org/persons/Miroff.png",
+  "mime_type": "image/png",
+  "bytes": 10682
+ },
+ {
+  "path": "persons/OliverRoick.png",
+  "route": "/persons/OliverRoick.png",
+  "source": "http://sotm-eu.org/persons/OliverRoick.png",
+  "timestamp": "20121215115017",
+  "wayback": "https://web.archive.org/web/20121215115017/http://sotm-eu.org/persons/OliverRoick.png",
+  "mime_type": "image/png",
+  "bytes": 8385
+ },
+ {
+  "path": "persons/Ollie.jpg",
+  "route": "/persons/Ollie.jpg",
+  "source": "http://sotm-eu.org/persons/Ollie.jpg",
+  "timestamp": "20121215134552",
+  "wayback": "https://web.archive.org/web/20121215134552/http://sotm-eu.org/persons/Ollie.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 1910
+ },
+ {
+  "path": "persons/R2D2_C3PO.jpg",
+  "route": "/persons/R2D2_C3PO.jpg",
+  "source": "http://sotm-eu.org/persons/R2D2_C3PO.jpg",
+  "timestamp": "20121215150809",
+  "wayback": "https://web.archive.org/web/20121215150809/http://sotm-eu.org/persons/R2D2_C3PO.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 8379
+ },
+ {
+  "path": "persons/Raul Krauthausen.jpg",
+  "route": "/persons/Raul Krauthausen.jpg",
+  "source": "http://sotm-eu.org/persons/Raul%20Krauthausen.jpg",
+  "timestamp": "20121215150119",
+  "wayback": "https://web.archive.org/web/20121215150119/http://sotm-eu.org/persons/Raul%20Krauthausen.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 1984
+ },
+ {
+  "path": "persons/Roland Olbricht.jpg",
+  "route": "/persons/Roland Olbricht.jpg",
+  "source": "http://sotm-eu.org/persons/Roland%20Olbricht.jpg",
+  "timestamp": "20121215134451",
+  "wayback": "https://web.archive.org/web/20121215134451/http://sotm-eu.org/persons/Roland%20Olbricht.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 9482
+ },
+ {
+  "path": "persons/SK53.jpg",
+  "route": "/persons/SK53.jpg",
+  "source": "http://sotm-eu.org/persons/SK53.jpg",
+  "timestamp": "20121215122127",
+  "wayback": "https://web.archive.org/web/20121215122127/http://sotm-eu.org/persons/SK53.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 19285
+ },
+ {
+  "path": "persons/SchuylerErle.jpg",
+  "route": "/persons/SchuylerErle.jpg",
+  "source": "http://sotm-eu.org/persons/SchuylerErle.jpg",
+  "timestamp": "20121215151259",
+  "wayback": "https://web.archive.org/web/20121215151259/http://sotm-eu.org/persons/SchuylerErle.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 2329
+ },
+ {
+  "path": "persons/SteveC.jpg",
+  "route": "/persons/SteveC.jpg",
+  "source": "http://sotm-eu.org/persons/SteveC.jpg",
+  "timestamp": "20121215122108",
+  "wayback": "https://web.archive.org/web/20121215122108/http://sotm-eu.org/persons/SteveC.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 2701
+ },
+ {
+  "path": "persons/SvenLeitinger.jpg",
+  "route": "/persons/SvenLeitinger.jpg",
+  "source": "http://sotm-eu.org/persons/SvenLeitinger.jpg",
+  "timestamp": "20121215162626",
+  "wayback": "https://web.archive.org/web/20121215162626/http://sotm-eu.org/persons/SvenLeitinger.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 6671
+ },
+ {
+  "path": "persons/ToffeHoff.jpg",
+  "route": "/persons/ToffeHoff.jpg",
+  "source": "http://sotm-eu.org/persons/ToffeHoff.jpg",
+  "timestamp": "20121215134604",
+  "wayback": "https://web.archive.org/web/20121215134604/http://sotm-eu.org/persons/ToffeHoff.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 3100
+ },
+ {
+  "path": "persons/b3r3nd.jpg",
+  "route": "/persons/b3r3nd.jpg",
+  "source": "http://sotm-eu.org/persons/b3r3nd.jpg",
+  "timestamp": "20121215151816",
+  "wayback": "https://web.archive.org/web/20121215151816/http://sotm-eu.org/persons/b3r3nd.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 18948
+ },
+ {
+  "path": "persons/balrog-kun.jpg",
+  "route": "/persons/balrog-kun.jpg",
+  "source": "http://sotm-eu.org/persons/balrog-kun.jpg",
+  "timestamp": "20121215145206",
+  "wayback": "https://web.archive.org/web/20121215145206/http://sotm-eu.org/persons/balrog-kun.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 1764
+ },
+ {
+  "path": "persons/dodobas.jpg",
+  "route": "/persons/dodobas.jpg",
+  "source": "http://sotm-eu.org/persons/dodobas.jpg",
+  "timestamp": "20121215113253",
+  "wayback": "https://web.archive.org/web/20121215113253/http://sotm-eu.org/persons/dodobas.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 2624
+ },
+ {
+  "path": "persons/double-m.jpg",
+  "route": "/persons/double-m.jpg",
+  "source": "http://sotm-eu.org/persons/double-m.jpg",
+  "timestamp": "20121215122051",
+  "wayback": "https://web.archive.org/web/20121215122051/http://sotm-eu.org/persons/double-m.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 2260
+ },
+ {
+  "path": "persons/e9625163.jpg",
+  "route": "/persons/e9625163.jpg",
+  "source": "http://sotm-eu.org/persons/e9625163.jpg",
+  "timestamp": "20121215153242",
+  "wayback": "https://web.archive.org/web/20121215153242/http://sotm-eu.org/persons/e9625163.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 4022
+ },
+ {
+  "path": "persons/freyfogle.jpg",
+  "route": "/persons/freyfogle.jpg",
+  "source": "http://sotm-eu.org/persons/freyfogle.jpg",
+  "timestamp": "20130730161304",
+  "wayback": "https://web.archive.org/web/20130730161304/http://sotm-eu.org/persons/freyfogle.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 2733
+ },
+ {
+  "path": "persons/infoware_tsh.jpg",
+  "route": "/persons/infoware_tsh.jpg",
+  "source": "http://sotm-eu.org/persons/infoware_tsh.jpg",
+  "timestamp": "20121215130848",
+  "wayback": "https://web.archive.org/web/20121215130848/http://sotm-eu.org/persons/infoware_tsh.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 3305
+ },
+ {
+  "path": "persons/mackerski.jpg",
+  "route": "/persons/mackerski.jpg",
+  "source": "http://sotm-eu.org/persons/mackerski.jpg",
+  "timestamp": "20121215154002",
+  "wayback": "https://web.archive.org/web/20121215154002/http://sotm-eu.org/persons/mackerski.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 1891
+ },
+ {
+  "path": "persons/mtmail.jpg",
+  "route": "/persons/mtmail.jpg",
+  "source": "http://sotm-eu.org/persons/mtmail.jpg",
+  "timestamp": "20121215114309",
+  "wayback": "https://web.archive.org/web/20121215114309/http://sotm-eu.org/persons/mtmail.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 2542
+ },
+ {
+  "path": "persons/muki.jpg",
+  "route": "/persons/muki.jpg",
+  "source": "http://sotm-eu.org/persons/muki.jpg",
+  "timestamp": "20130730162401",
+  "wayback": "https://web.archive.org/web/20130730162401/http://sotm-eu.org/persons/muki.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 2031
+ },
+ {
+  "path": "persons/napo.jpg",
+  "route": "/persons/napo.jpg",
+  "source": "http://sotm-eu.org/persons/napo.jpg",
+  "timestamp": "20121215153218",
+  "wayback": "https://web.archive.org/web/20121215153218/http://sotm-eu.org/persons/napo.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 1930
+ },
+ {
+  "path": "persons/nickw.jpg",
+  "route": "/persons/nickw.jpg",
+  "source": "http://sotm-eu.org/persons/nickw.jpg",
+  "timestamp": "20121215142355",
+  "wayback": "https://web.archive.org/web/20121215142355/http://sotm-eu.org/persons/nickw.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 2279
+ },
+ {
+  "path": "persons/osm.png",
+  "route": "/persons/osm.png",
+  "source": "http://sotm-eu.org/persons/osm.png",
+  "timestamp": "20121215124359",
+  "wayback": "https://web.archive.org/web/20121215124359/http://sotm-eu.org/persons/osm.png",
+  "mime_type": "image/png",
+  "bytes": 8088
+ },
+ {
+  "path": "persons/peterm7.jpg",
+  "route": "/persons/peterm7.jpg",
+  "source": "http://sotm-eu.org/persons/peterm7.jpg",
+  "timestamp": "20121215143116",
+  "wayback": "https://web.archive.org/web/20121215143116/http://sotm-eu.org/persons/peterm7.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 1962
+ },
+ {
+  "path": "persons/petzlux.jpg",
+  "route": "/persons/petzlux.jpg",
+  "source": "http://sotm-eu.org/persons/petzlux.jpg",
+  "timestamp": "20121215141417",
+  "wayback": "https://web.archive.org/web/20121215141417/http://sotm-eu.org/persons/petzlux.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 1894
+ },
+ {
+  "path": "persons/plush.jpg",
+  "route": "/persons/plush.jpg",
+  "source": "http://sotm-eu.org/persons/plush.jpg",
+  "timestamp": "20130730161445",
+  "wayback": "https://web.archive.org/web/20130730161445/http://sotm-eu.org/persons/plush.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 1887
+ },
+ {
+  "path": "persons/robotnic.jpg",
+  "route": "/persons/robotnic.jpg",
+  "source": "http://sotm-eu.org/persons/robotnic.jpg",
+  "timestamp": "20121215124832",
+  "wayback": "https://web.archive.org/web/20121215124832/http://sotm-eu.org/persons/robotnic.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 3191
+ },
+ {
+  "path": "persons/rw__.jpg",
+  "route": "/persons/rw__.jpg",
+  "source": "http://sotm-eu.org/persons/rw__.jpg",
+  "timestamp": "20121215145217",
+  "wayback": "https://web.archive.org/web/20121215145217/http://sotm-eu.org/persons/rw__.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 2768
+ },
+ {
+  "path": "persons/skunk.jpg",
+  "route": "/persons/skunk.jpg",
+  "source": "http://sotm-eu.org/persons/skunk.jpg",
+  "timestamp": "20121215143330",
+  "wayback": "https://web.archive.org/web/20121215143330/http://sotm-eu.org/persons/skunk.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 6868
+ },
+ {
+  "path": "persons/steve8.png",
+  "route": "/persons/steve8.png",
+  "source": "http://sotm-eu.org/persons/steve8.png",
+  "timestamp": "20121215115002",
+  "wayback": "https://web.archive.org/web/20121215115002/http://sotm-eu.org/persons/steve8.png",
+  "mime_type": "image/png",
+  "bytes": 10537
+ },
+ {
+  "path": "persons/vrs.jpg",
+  "route": "/persons/vrs.jpg",
+  "source": "http://sotm-eu.org/persons/vrs.jpg",
+  "timestamp": "20121215131903",
+  "wayback": "https://web.archive.org/web/20121215131903/http://sotm-eu.org/persons/vrs.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 3395
+ },
+ {
+  "path": "persons/vvoovv.jpg",
+  "route": "/persons/vvoovv.jpg",
+  "source": "http://sotm-eu.org/persons/vvoovv.jpg",
+  "timestamp": "20130730152638",
+  "wayback": "https://web.archive.org/web/20130730152638/http://sotm-eu.org/persons/vvoovv.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 5859
+ },
+ {
+  "path": "photos/20110716_40676_2.jpg",
+  "route": "/photos/20110716_40676_2.jpg",
+  "source": "http://sotm-eu.org/photos/20110716_40676_2.jpg",
+  "timestamp": "20120417143333",
+  "wayback": "https://web.archive.org/web/20120417143333/http://sotm-eu.org/photos/20110716_40676_2.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 1772095
+ },
+ {
+  "path": "picture/index.html",
+  "route": "/picture/",
+  "source": "http://sotm-eu.org/picture",
+  "timestamp": "20111011001811",
+  "wayback": "https://web.archive.org/web/20111011001811/http://sotm-eu.org/picture",
+  "mime_type": "text/html",
+  "bytes": 10150
+ },
+ {
+  "path": "print/schedule/index.html",
+  "route": "/print/schedule/",
+  "source": "http://sotm-eu.org/print/schedule",
+  "timestamp": "20121215134014",
+  "wayback": "https://web.archive.org/web/20121215134014/http://sotm-eu.org/print/schedule",
+  "mime_type": "text/html",
+  "bytes": 105526
+ },
+ {
+  "path": "programme/index.html",
+  "route": "/programme/",
+  "source": "http://sotm-eu.org/programme",
+  "timestamp": "20110417143148",
+  "wayback": "https://web.archive.org/web/20110417143148/http://sotm-eu.org/programme",
+  "mime_type": "text/html",
+  "bytes": 65907
+ },
+ {
+  "path": "programme/random/index.html",
+  "route": "/programme/random/",
+  "source": "http://sotm-eu.org/programme?order=random",
+  "timestamp": "20110421064731",
+  "wayback": "https://web.archive.org/web/20110421064731/http://sotm-eu.org/programme?order=random",
+  "mime_type": "text/html",
+  "bytes": 66755
+ },
+ {
+  "path": "programme/speaker/index.html",
+  "route": "/programme/speaker/",
+  "source": "http://sotm-eu.org/programme?order=speaker",
+  "timestamp": "20110421062717",
+  "wayback": "https://web.archive.org/web/20110421062717/http://sotm-eu.org/programme?order=speaker",
+  "mime_type": "text/html",
+  "bytes": 65603
+ },
+ {
+  "path": "programme/theme/index.html",
+  "route": "/programme/theme/",
+  "source": "http://sotm-eu.org/programme?order=theme",
+  "timestamp": "20110421064117",
+  "wayback": "https://web.archive.org/web/20110421064117/http://sotm-eu.org/programme?order=theme",
+  "mime_type": "text/html",
+  "bytes": 66755
+ },
+ {
+  "path": "programme/title/index.html",
+  "route": "/programme/title/",
+  "source": "http://sotm-eu.org/programme?order=title",
+  "timestamp": "20110421062722",
+  "wayback": "https://web.archive.org/web/20110421062722/http://sotm-eu.org/programme?order=title",
+  "mime_type": "text/html",
+  "bytes": 65603
+ },
+ {
+  "path": "recordings/index.html",
+  "route": "/recordings/",
+  "source": "http://sotm-eu.org/recordings",
+  "timestamp": "20121215153106",
+  "wayback": "https://web.archive.org/web/20121215153106/http://sotm-eu.org/recordings",
+  "mime_type": "text/html",
+  "bytes": 10003
+ },
+ {
+  "path": "registration/index.html",
+  "route": "/registration/",
+  "source": "http://sotm-eu.org/registration",
+  "timestamp": "20110112082130",
+  "wayback": "https://web.archive.org/web/20110112082130/http://sotm-eu.org/registration",
+  "mime_type": "text/html",
+  "bytes": 6629
+ },
+ {
+  "path": "rss.xml",
+  "route": "/rss.xml",
+  "source": "http://sotm-eu.org/rss.xml",
+  "timestamp": "20130621092827",
+  "wayback": "https://web.archive.org/web/20130621092827/http://sotm-eu.org/rss.xml",
+  "mime_type": "application/xml",
+  "bytes": 16178
+ },
+ {
+  "path": "schedule/index.html",
+  "route": "/schedule/",
+  "source": "http://sotm-eu.org/schedule.html",
+  "timestamp": "20130705065105",
+  "wayback": "https://web.archive.org/web/20130705065105/http://sotm-eu.org/schedule.html",
+  "mime_type": "text/html",
+  "bytes": 121619
+ },
+ {
+  "path": "sites/all/themes/blueprint/css/blueprint.css",
+  "route": "/sites/all/themes/blueprint/css/blueprint.css",
+  "source": "http://sotm-eu.org/sites/all/themes/blueprint/css/blueprint.css?g",
+  "timestamp": "20110908000118",
+  "wayback": "https://web.archive.org/web/20110908000118/http://sotm-eu.org/sites/all/themes/blueprint/css/blueprint.css?g",
+  "mime_type": "text/css",
+  "bytes": 7294
+ },
+ {
+  "path": "sites/all/themes/blueprint/css/style.css",
+  "route": "/sites/all/themes/blueprint/css/style.css",
+  "source": "http://sotm-eu.org/sites/all/themes/blueprint/css/style.css?g",
+  "timestamp": "20110828041107",
+  "wayback": "https://web.archive.org/web/20110828041107/http://sotm-eu.org/sites/all/themes/blueprint/css/style.css?g",
+  "mime_type": "text/css",
+  "bytes": 34
+ },
+ {
+  "path": "sites/all/themes/blueprint/images/icons/menu-collapsed.gif",
+  "route": "/sites/all/themes/blueprint/images/icons/menu-collapsed.gif",
+  "source": "http://sotm-eu.org/sites/all/themes/blueprint/images/icons/menu-collapsed.gif",
+  "timestamp": "20130727073738",
+  "wayback": "https://web.archive.org/web/20130727073738/http://sotm-eu.org/sites/all/themes/blueprint/images/icons/menu-collapsed.gif",
+  "mime_type": "image/gif",
+  "bytes": 176
+ },
+ {
+  "path": "sites/all/themes/blueprint/images/icons/menu-expanded.gif",
+  "route": "/sites/all/themes/blueprint/images/icons/menu-expanded.gif",
+  "source": "http://sotm-eu.org/sites/all/themes/blueprint/images/icons/menu-expanded.gif",
+  "timestamp": "20130727091309",
+  "wayback": "https://web.archive.org/web/20130727091309/http://sotm-eu.org/sites/all/themes/blueprint/images/icons/menu-expanded.gif",
+  "mime_type": "image/gif",
+  "bytes": 183
+ },
+ {
+  "path": "sites/all/themes/blueprint/images/icons/menu-leaf.gif",
+  "route": "/sites/all/themes/blueprint/images/icons/menu-leaf.gif",
+  "source": "http://sotm-eu.org/sites/all/themes/blueprint/images/icons/menu-leaf.gif",
+  "timestamp": "20130727080022",
+  "wayback": "https://web.archive.org/web/20130727080022/http://sotm-eu.org/sites/all/themes/blueprint/images/icons/menu-leaf.gif",
+  "mime_type": "image/gif",
+  "bytes": 175
+ },
+ {
+  "path": "sites/all/themes/blueprint/images/loading.gif",
+  "route": "/sites/all/themes/blueprint/images/loading.gif",
+  "source": "http://sotm-eu.org/sites/all/themes/blueprint/images/loading.gif",
+  "timestamp": "20130727063301",
+  "wayback": "https://web.archive.org/web/20130727063301/http://sotm-eu.org/sites/all/themes/blueprint/images/loading.gif",
+  "mime_type": "image/gif",
+  "bytes": 1849
+ },
+ {
+  "path": "sites/all/themes/blueprint/images/lquote.png",
+  "route": "/sites/all/themes/blueprint/images/lquote.png",
+  "source": "http://sotm-eu.org/sites/all/themes/blueprint/images/lquote.png",
+  "timestamp": "20130727085432",
+  "wayback": "https://web.archive.org/web/20130727085432/http://sotm-eu.org/sites/all/themes/blueprint/images/lquote.png",
+  "mime_type": "image/png",
+  "bytes": 321
+ },
+ {
+  "path": "sites/all/themes/blueprint/scripts/general.js",
+  "route": "/sites/all/themes/blueprint/scripts/general.js",
+  "source": "http://sotm-eu.org/sites/all/themes/blueprint/scripts/general.js?g",
+  "timestamp": "20110918110949",
+  "wayback": "https://web.archive.org/web/20110918110949/http://sotm-eu.org/sites/all/themes/blueprint/scripts/general.js?g",
+  "mime_type": "application/javascript",
+  "bytes": 1269
+ },
+ {
+  "path": "sites/all/themes/sotm/img/bg4.png",
+  "route": "/sites/all/themes/sotm/img/bg4.png",
+  "source": "http://sotm-eu.org/sites/all/themes/sotm/img/bg4.png",
+  "timestamp": "20130730160636",
+  "wayback": "https://web.archive.org/web/20130730160636/http://sotm-eu.org/sites/all/themes/sotm/img/bg4.png",
+  "mime_type": "image/png",
+  "bytes": 182267
+ },
+ {
+  "path": "sites/all/themes/sotm/scripts.js",
+  "route": "/sites/all/themes/sotm/scripts.js",
+  "source": "http://sotm-eu.org/sites/all/themes/sotm/scripts.js?g",
+  "timestamp": "20110827153518",
+  "wayback": "https://web.archive.org/web/20110827153518/http://sotm-eu.org/sites/all/themes/sotm/scripts.js?g",
+  "mime_type": "application/javascript",
+  "bytes": 351
+ },
+ {
+  "path": "sites/all/themes/sotm/sotm-eu2011.gif",
+  "route": "/sites/all/themes/sotm/sotm-eu2011.gif",
+  "source": "http://sotm-eu.org/sites/all/themes/sotm/sotm-eu2011.gif",
+  "timestamp": "20130621100622",
+  "wayback": "https://web.archive.org/web/20130621100622/http://sotm-eu.org/sites/all/themes/sotm/sotm-eu2011.gif",
+  "mime_type": "image/gif",
+  "bytes": 10118
+ },
+ {
+  "path": "sites/all/themes/sotm/sotm.css",
+  "route": "/sites/all/themes/sotm/sotm.css",
+  "source": "http://sotm-eu.org/sites/all/themes/sotm/sotm.css?g",
+  "timestamp": "20110921214417",
+  "wayback": "https://web.archive.org/web/20110921214417/http://sotm-eu.org/sites/all/themes/sotm/sotm.css?g",
+  "mime_type": "text/css",
+  "bytes": 5498
+ },
+ {
+  "path": "sites/default/files/css/css_33e91dd0185ab67f9296bb66d71cf947.css",
+  "route": "/sites/default/files/css/css_33e91dd0185ab67f9296bb66d71cf947.css",
+  "source": "http://sotm-eu.org/sites/default/files/css/css_33e91dd0185ab67f9296bb66d71cf947.css",
+  "timestamp": "20130114082606",
+  "wayback": "https://web.archive.org/web/20130114082606/http://sotm-eu.org/sites/default/files/css/css_33e91dd0185ab67f9296bb66d71cf947.css",
+  "mime_type": "text/css",
+  "bytes": 9486
+ },
+ {
+  "path": "sites/default/files/css/css_62c18ef81cf73417e5cbad4f78acd3a8.css",
+  "route": "/sites/default/files/css/css_62c18ef81cf73417e5cbad4f78acd3a8.css",
+  "source": "http://sotm-eu.org/sites/default/files/css/css_62c18ef81cf73417e5cbad4f78acd3a8.css",
+  "timestamp": "20130621082956",
+  "wayback": "https://web.archive.org/web/20130621082956/http://sotm-eu.org/sites/default/files/css/css_62c18ef81cf73417e5cbad4f78acd3a8.css",
+  "mime_type": "text/css",
+  "bytes": 16315
+ },
+ {
+  "path": "sites/default/files/css/css_b6f61c112255505ad48510d22c3c87b0.css",
+  "route": "/sites/default/files/css/css_b6f61c112255505ad48510d22c3c87b0.css",
+  "source": "http://sotm-eu.org/sites/default/files/css/css_b6f61c112255505ad48510d22c3c87b0.css",
+  "timestamp": "20130701102037",
+  "wayback": "https://web.archive.org/web/20130701102037/http://sotm-eu.org/sites/default/files/css/css_b6f61c112255505ad48510d22c3c87b0.css",
+  "mime_type": "text/css",
+  "bytes": 4614
+ },
+ {
+  "path": "sites/default/files/css/css_c991ec007de3220f92cd50e73040af57.css",
+  "route": "/sites/default/files/css/css_c991ec007de3220f92cd50e73040af57.css",
+  "source": "http://sotm-eu.org/sites/default/files/css/css_c991ec007de3220f92cd50e73040af57.css",
+  "timestamp": "20130114084603",
+  "wayback": "https://web.archive.org/web/20130114084603/http://sotm-eu.org/sites/default/files/css/css_c991ec007de3220f92cd50e73040af57.css",
+  "mime_type": "text/css",
+  "bytes": 785
+ },
+ {
+  "path": "sites/default/files/js/js_037cab82343e5eceae919f17bf2afe97.js",
+  "route": "/sites/default/files/js/js_037cab82343e5eceae919f17bf2afe97.js",
+  "source": "http://sotm-eu.org/sites/default/files/js/js_037cab82343e5eceae919f17bf2afe97.js",
+  "timestamp": "20130701085743",
+  "wayback": "https://web.archive.org/web/20130701085743/http://sotm-eu.org/sites/default/files/js/js_037cab82343e5eceae919f17bf2afe97.js",
+  "mime_type": "application/javascript",
+  "bytes": 42430
+ },
+ {
+  "path": "slides/10_MaksimGurtovenko_MapCSS.pdf",
+  "route": "/slides/10_MaksimGurtovenko_MapCSS.pdf",
+  "source": "http://sotm-eu.org/slides/10_MaksimGurtovenko_MapCSS.pdf",
+  "timestamp": "20121215151903",
+  "wayback": "https://web.archive.org/web/20121215151903/http://sotm-eu.org/slides/10_MaksimGurtovenko_MapCSS.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 630576
+ },
+ {
+  "path": "slides/12_HOT_SotM-EU_2011.pdf",
+  "route": "/slides/12_HOT_SotM-EU_2011.pdf",
+  "source": "http://sotm-eu.org/slides/12_HOT_SotM-EU_2011.pdf",
+  "timestamp": "20121215151339",
+  "wayback": "https://web.archive.org/web/20121215151339/http://sotm-eu.org/slides/12_HOT_SotM-EU_2011.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 8783716
+ },
+ {
+  "path": "slides/13_JochenTopf_Taginfo.pdf",
+  "route": "/slides/13_JochenTopf_Taginfo.pdf",
+  "source": "http://sotm-eu.org/slides/13_JochenTopf_Taginfo.pdf",
+  "timestamp": "20121215163904",
+  "wayback": "https://web.archive.org/web/20121215163904/http://sotm-eu.org/slides/13_JochenTopf_Taginfo.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 889642
+ },
+ {
+  "path": "slides/14_JochenTopf_osmium.pdf",
+  "route": "/slides/14_JochenTopf_osmium.pdf",
+  "source": "http://sotm-eu.org/slides/14_JochenTopf_osmium.pdf",
+  "timestamp": "20130602154920",
+  "wayback": "https://web.archive.org/web/20130602154920/http://sotm-eu.org/slides/14_JochenTopf_osmium.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 2236132
+ },
+ {
+  "path": "slides/15_SteveChilton_SOTMEU11.pdf",
+  "route": "/slides/15_SteveChilton_SOTMEU11.pdf",
+  "source": "http://sotm-eu.org/slides/15_SteveChilton_SOTMEU11.pdf",
+  "timestamp": "20121215130052",
+  "wayback": "https://web.archive.org/web/20121215130052/http://sotm-eu.org/slides/15_SteveChilton_SOTMEU11.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 2140628
+ },
+ {
+  "path": "slides/18_AlexanderErifiu_AR.pdf",
+  "route": "/slides/18_AlexanderErifiu_AR.pdf",
+  "source": "http://sotm-eu.org/slides/18_AlexanderErifiu_AR.pdf",
+  "timestamp": "20121215164002",
+  "wayback": "https://web.archive.org/web/20121215164002/http://sotm-eu.org/slides/18_AlexanderErifiu_AR.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 4092588
+ },
+ {
+  "path": "slides/19_BenAbelshausen_UsingOpenStreetMapForLogisticsAndPlanning.pdf",
+  "route": "/slides/19_BenAbelshausen_UsingOpenStreetMapForLogisticsAndPlanning.pdf",
+  "source": "http://sotm-eu.org/slides/19_BenAbelshausen_UsingOpenStreetMapForLogisticsAndPlanning.pdf",
+  "timestamp": "20121215111539",
+  "wayback": "https://web.archive.org/web/20121215111539/http://sotm-eu.org/slides/19_BenAbelshausen_UsingOpenStreetMapForLogisticsAndPlanning.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 2371379
+ },
+ {
+  "path": "slides/1_OpenSeaMap_SOTM-2011.pdf",
+  "route": "/slides/1_OpenSeaMap_SOTM-2011.pdf",
+  "source": "http://sotm-eu.org/slides/1_OpenSeaMap_SOTM-2011.pdf",
+  "timestamp": "20121215153940",
+  "wayback": "https://web.archive.org/web/20121215153940/http://sotm-eu.org/slides/1_OpenSeaMap_SOTM-2011.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 2574686
+ },
+ {
+  "path": "slides/1_OpenSeaMap_SOTM-2011.ppt",
+  "route": "/slides/1_OpenSeaMap_SOTM-2011.ppt",
+  "source": "http://sotm-eu.org/slides/1_OpenSeaMap_SOTM-2011.ppt",
+  "timestamp": "20121215165614",
+  "wayback": "https://web.archive.org/web/20121215165614/http://sotm-eu.org/slides/1_OpenSeaMap_SOTM-2011.ppt",
+  "mime_type": "application/vnd.ms-powerpoint",
+  "bytes": 61354496
+ },
+ {
+  "path": "slides/21_AndreiBejan_UrbanTrafficCongestion.pdf",
+  "route": "/slides/21_AndreiBejan_UrbanTrafficCongestion.pdf",
+  "source": "http://sotm-eu.org/slides/21_AndreiBejan_UrbanTrafficCongestion.pdf",
+  "timestamp": "20121215115843",
+  "wayback": "https://web.archive.org/web/20121215115843/http://sotm-eu.org/slides/21_AndreiBejan_UrbanTrafficCongestion.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 4751347
+ },
+ {
+  "path": "slides/22_PeterMooney_VVGI.odp",
+  "route": "/slides/22_PeterMooney_VVGI.odp",
+  "source": "http://sotm-eu.org/slides/22_PeterMooney_VVGI.odp",
+  "timestamp": "20121215132756",
+  "wayback": "https://web.archive.org/web/20121215132756/http://sotm-eu.org/slides/22_PeterMooney_VVGI.odp",
+  "mime_type": "application/vnd.oasis.opendocument.presentation",
+  "bytes": 22683420
+ },
+ {
+  "path": "slides/22_PeterMooney_VVGI.pdf",
+  "route": "/slides/22_PeterMooney_VVGI.pdf",
+  "source": "http://sotm-eu.org/slides/22_PeterMooney_VVGI.pdf",
+  "timestamp": "20121215154040",
+  "wayback": "https://web.archive.org/web/20121215154040/http://sotm-eu.org/slides/22_PeterMooney_VVGI.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 5693437
+ },
+ {
+  "path": "slides/22_PeterMooney_Video_28493686-v_178.dat.gif",
+  "route": "/slides/22_PeterMooney_Video_28493686-v_178.dat.gif",
+  "source": "http://sotm-eu.org/slides/22_PeterMooney_Video_28493686-v_178.dat.gif",
+  "timestamp": "20121215113307",
+  "wayback": "https://web.archive.org/web/20121215113307/http://sotm-eu.org/slides/22_PeterMooney_Video_28493686-v_178.dat.gif",
+  "mime_type": "image/gif",
+  "bytes": 4543503
+ },
+ {
+  "path": "slides/23_IgorBrejc_Maperitive.odp",
+  "route": "/slides/23_IgorBrejc_Maperitive.odp",
+  "source": "http://sotm-eu.org/slides/23_IgorBrejc_Maperitive.odp",
+  "timestamp": "20121215111715",
+  "wayback": "https://web.archive.org/web/20121215111715/http://sotm-eu.org/slides/23_IgorBrejc_Maperitive.odp",
+  "mime_type": "application/vnd.oasis.opendocument.presentation",
+  "bytes": 6348218
+ },
+ {
+  "path": "slides/23_IgorBrejc_Maperitive.pdf",
+  "route": "/slides/23_IgorBrejc_Maperitive.pdf",
+  "source": "http://sotm-eu.org/slides/23_IgorBrejc_Maperitive.pdf",
+  "timestamp": "20121215170511",
+  "wayback": "https://web.archive.org/web/20121215170511/http://sotm-eu.org/slides/23_IgorBrejc_Maperitive.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 1619957
+ },
+ {
+  "path": "slides/27_VladimirElistratov_osm_buildings.pdf",
+  "route": "/slides/27_VladimirElistratov_osm_buildings.pdf",
+  "source": "http://sotm-eu.org/slides/27_VladimirElistratov_osm_buildings.pdf",
+  "timestamp": "20121215135337",
+  "wayback": "https://web.archive.org/web/20121215135337/http://sotm-eu.org/slides/27_VladimirElistratov_osm_buildings.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 833639
+ },
+ {
+  "path": "slides/27_VladimirElistratov_osm_buildings.ppt",
+  "route": "/slides/27_VladimirElistratov_osm_buildings.ppt",
+  "source": "http://sotm-eu.org/slides/27_VladimirElistratov_osm_buildings.ppt",
+  "timestamp": "20121215170847",
+  "wayback": "https://web.archive.org/web/20121215170847/http://sotm-eu.org/slides/27_VladimirElistratov_osm_buildings.ppt",
+  "mime_type": "application/vnd.ms-powerpoint",
+  "bytes": 16463360
+ },
+ {
+  "path": "slides/29_StephanPlepelits_OpenStreetBrowser2.pdf",
+  "route": "/slides/29_StephanPlepelits_OpenStreetBrowser2.pdf",
+  "source": "http://sotm-eu.org/slides/29_StephanPlepelits_OpenStreetBrowser2.pdf",
+  "timestamp": "20121215140000",
+  "wayback": "https://web.archive.org/web/20121215140000/http://sotm-eu.org/slides/29_StephanPlepelits_OpenStreetBrowser2.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 903989
+ },
+ {
+  "path": "slides/31_Usability_of_Editor.pdf",
+  "route": "/slides/31_Usability_of_Editor.pdf",
+  "source": "http://sotm-eu.org/slides/31_Usability_of_Editor.pdf",
+  "timestamp": "20121215143300",
+  "wayback": "https://web.archive.org/web/20121215143300/http://sotm-eu.org/slides/31_Usability_of_Editor.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 2045033
+ },
+ {
+  "path": "slides/31_Usability_of_Editor.ppt",
+  "route": "/slides/31_Usability_of_Editor.ppt",
+  "source": "http://sotm-eu.org/slides/31_Usability_of_Editor.ppt",
+  "timestamp": "20121215170008",
+  "wayback": "https://web.archive.org/web/20121215170008/http://sotm-eu.org/slides/31_Usability_of_Editor.ppt",
+  "mime_type": "application/vnd.ms-powerpoint",
+  "bytes": 8912384
+ },
+ {
+  "path": "slides/32_dodobas_Kartolog.pdf",
+  "route": "/slides/32_dodobas_Kartolog.pdf",
+  "source": "http://sotm-eu.org/slides/32_dodobas_Kartolog.pdf",
+  "timestamp": "20121215163920",
+  "wayback": "https://web.archive.org/web/20121215163920/http://sotm-eu.org/slides/32_dodobas_Kartolog.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 1174460
+ },
+ {
+  "path": "slides/35_EnricoSteiger_TrafficMap.pdf",
+  "route": "/slides/35_EnricoSteiger_TrafficMap.pdf",
+  "source": "http://sotm-eu.org/slides/35_EnricoSteiger_TrafficMap.pdf",
+  "timestamp": "20121215130918",
+  "wayback": "https://web.archive.org/web/20121215130918/http://sotm-eu.org/slides/35_EnricoSteiger_TrafficMap.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 2888741
+ },
+ {
+  "path": "slides/36_MartinChristen_OpenWebGlobe.pdf",
+  "route": "/slides/36_MartinChristen_OpenWebGlobe.pdf",
+  "source": "http://sotm-eu.org/slides/36_MartinChristen_OpenWebGlobe.pdf",
+  "timestamp": "20121215133442",
+  "wayback": "https://web.archive.org/web/20121215133442/http://sotm-eu.org/slides/36_MartinChristen_OpenWebGlobe.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 2492900
+ },
+ {
+  "path": "slides/37_GregorHorsinka_OSMonto.odp",
+  "route": "/slides/37_GregorHorsinka_OSMonto.odp",
+  "source": "http://sotm-eu.org/slides/37_GregorHorsinka_OSMonto.odp",
+  "timestamp": "20121215172008",
+  "wayback": "https://web.archive.org/web/20121215172008/http://sotm-eu.org/slides/37_GregorHorsinka_OSMonto.odp",
+  "mime_type": "application/vnd.oasis.opendocument.presentation",
+  "bytes": 1051631
+ },
+ {
+  "path": "slides/37_GregorHorsinka_OSMonto.pdf",
+  "route": "/slides/37_GregorHorsinka_OSMonto.pdf",
+  "source": "http://sotm-eu.org/slides/37_GregorHorsinka_OSMonto.pdf",
+  "timestamp": "20121215122301",
+  "wayback": "https://web.archive.org/web/20121215122301/http://sotm-eu.org/slides/37_GregorHorsinka_OSMonto.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 398289
+ },
+ {
+  "path": "slides/38_JerryClough_UrbanAtlas_SK53.pdf",
+  "route": "/slides/38_JerryClough_UrbanAtlas_SK53.pdf",
+  "source": "http://sotm-eu.org/slides/38_JerryClough_UrbanAtlas_SK53.pdf",
+  "timestamp": "20121215170944",
+  "wayback": "https://web.archive.org/web/20121215170944/http://sotm-eu.org/slides/38_JerryClough_UrbanAtlas_SK53.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 20154231
+ },
+ {
+  "path": "slides/3_AngiVoss_Comparison.pdf",
+  "route": "/slides/3_AngiVoss_Comparison.pdf",
+  "source": "http://sotm-eu.org/slides/3_AngiVoss_Comparison.pdf",
+  "timestamp": "20121215162811",
+  "wayback": "https://web.archive.org/web/20121215162811/http://sotm-eu.org/slides/3_AngiVoss_Comparison.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 577232
+ },
+ {
+  "path": "slides/40_RolandOlbricht_talk__overpass_api.pdf",
+  "route": "/slides/40_RolandOlbricht_talk__overpass_api.pdf",
+  "source": "http://sotm-eu.org/slides/40_RolandOlbricht_talk__overpass_api.pdf",
+  "timestamp": "20121215164359",
+  "wayback": "https://web.archive.org/web/20121215164359/http://sotm-eu.org/slides/40_RolandOlbricht_talk__overpass_api.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 545956
+ },
+ {
+  "path": "slides/42_AlPascual_ESRI_IntegrationofOpenStreetMapintoArcGIS.pdf",
+  "route": "/slides/42_AlPascual_ESRI_IntegrationofOpenStreetMapintoArcGIS.pdf",
+  "source": "http://sotm-eu.org/slides/42_AlPascual_ESRI_IntegrationofOpenStreetMapintoArcGIS.pdf",
+  "timestamp": "20121215150001",
+  "wayback": "https://web.archive.org/web/20121215150001/http://sotm-eu.org/slides/42_AlPascual_ESRI_IntegrationofOpenStreetMapintoArcGIS.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 2158722
+ },
+ {
+  "path": "slides/42_AlPascual_ESRI_IntegrationofOpenStreetMapintoArcGIS.pptx",
+  "route": "/slides/42_AlPascual_ESRI_IntegrationofOpenStreetMapintoArcGIS.pptx",
+  "source": "http://sotm-eu.org/slides/42_AlPascual_ESRI_IntegrationofOpenStreetMapintoArcGIS.pptx",
+  "timestamp": "20121215132728",
+  "wayback": "https://web.archive.org/web/20121215132728/http://sotm-eu.org/slides/42_AlPascual_ESRI_IntegrationofOpenStreetMapintoArcGIS.pptx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+  "bytes": 10193589
+ },
+ {
+  "path": "slides/46_DermotMcNally_TrueOffset.odp",
+  "route": "/slides/46_DermotMcNally_TrueOffset.odp",
+  "source": "http://sotm-eu.org/slides/46_DermotMcNally_TrueOffset.odp",
+  "timestamp": "20121215134515",
+  "wayback": "https://web.archive.org/web/20121215134515/http://sotm-eu.org/slides/46_DermotMcNally_TrueOffset.odp",
+  "mime_type": "application/vnd.oasis.opendocument.presentation",
+  "bytes": 3988719
+ },
+ {
+  "path": "slides/46_DermotMcNally_TrueOffset.pdf",
+  "route": "/slides/46_DermotMcNally_TrueOffset.pdf",
+  "source": "http://sotm-eu.org/slides/46_DermotMcNally_TrueOffset.pdf",
+  "timestamp": "20121215143451",
+  "wayback": "https://web.archive.org/web/20121215143451/http://sotm-eu.org/slides/46_DermotMcNally_TrueOffset.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 1593823
+ },
+ {
+  "path": "slides/48_NickWhitelegg_OpenTrail.odp",
+  "route": "/slides/48_NickWhitelegg_OpenTrail.odp",
+  "source": "http://sotm-eu.org/slides/48_NickWhitelegg_OpenTrail.odp",
+  "timestamp": "20121215171434",
+  "wayback": "https://web.archive.org/web/20121215171434/http://sotm-eu.org/slides/48_NickWhitelegg_OpenTrail.odp",
+  "mime_type": "application/vnd.oasis.opendocument.presentation",
+  "bytes": 302092
+ },
+ {
+  "path": "slides/48_NickWhitelegg_OpenTrail.pdf",
+  "route": "/slides/48_NickWhitelegg_OpenTrail.pdf",
+  "source": "http://sotm-eu.org/slides/48_NickWhitelegg_OpenTrail.pdf",
+  "timestamp": "20121215120532",
+  "wayback": "https://web.archive.org/web/20121215120532/http://sotm-eu.org/slides/48_NickWhitelegg_OpenTrail.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 155797
+ },
+ {
+  "path": "slides/49_BerendSchotanus_ModelingRailwaysInOSM.pdf",
+  "route": "/slides/49_BerendSchotanus_ModelingRailwaysInOSM.pdf",
+  "source": "http://sotm-eu.org/slides/49_BerendSchotanus_ModelingRailwaysInOSM.pdf",
+  "timestamp": "20121215145846",
+  "wayback": "https://web.archive.org/web/20121215145846/http://sotm-eu.org/slides/49_BerendSchotanus_ModelingRailwaysInOSM.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 7444642
+ },
+ {
+  "path": "slides/4_ThomasSchulteHillen_Bangalore.pdf",
+  "route": "/slides/4_ThomasSchulteHillen_Bangalore.pdf",
+  "source": "http://sotm-eu.org/slides/4_ThomasSchulteHillen_Bangalore.pdf",
+  "timestamp": "20121215113941",
+  "wayback": "https://web.archive.org/web/20121215113941/http://sotm-eu.org/slides/4_ThomasSchulteHillen_Bangalore.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 1881301
+ },
+ {
+  "path": "slides/50_SvenLeitinger_MobileApp.pdf",
+  "route": "/slides/50_SvenLeitinger_MobileApp.pdf",
+  "source": "http://sotm-eu.org/slides/50_SvenLeitinger_MobileApp.pdf",
+  "timestamp": "20121215164034",
+  "wayback": "https://web.archive.org/web/20121215164034/http://sotm-eu.org/slides/50_SvenLeitinger_MobileApp.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 2145121
+ },
+ {
+  "path": "slides/51_AndyAllen_Carto2.pdf",
+  "route": "/slides/51_AndyAllen_Carto2.pdf",
+  "source": "http://sotm-eu.org/slides/51_AndyAllen_Carto2.pdf",
+  "timestamp": "20121215172159",
+  "wayback": "https://web.archive.org/web/20121215172159/http://sotm-eu.org/slides/51_AndyAllen_Carto2.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 7185022
+ },
+ {
+  "path": "slides/52_AndyAllan_Potlatch2.odp",
+  "route": "/slides/52_AndyAllan_Potlatch2.odp",
+  "source": "http://sotm-eu.org/slides/52_AndyAllan_Potlatch2.odp",
+  "timestamp": "20121215132513",
+  "wayback": "https://web.archive.org/web/20121215132513/http://sotm-eu.org/slides/52_AndyAllan_Potlatch2.odp",
+  "mime_type": "application/vnd.oasis.opendocument.presentation",
+  "bytes": 8785170
+ },
+ {
+  "path": "slides/52_AndyAllan_Potlatch2.pdf",
+  "route": "/slides/52_AndyAllan_Potlatch2.pdf",
+  "source": "http://sotm-eu.org/slides/52_AndyAllan_Potlatch2.pdf",
+  "timestamp": "20121215154014",
+  "wayback": "https://web.archive.org/web/20121215154014/http://sotm-eu.org/slides/52_AndyAllan_Potlatch2.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 4119444
+ },
+ {
+  "path": "slides/54_AnnetteThurow_LookAndListenMap.odp",
+  "route": "/slides/54_AnnetteThurow_LookAndListenMap.odp",
+  "source": "http://sotm-eu.org/slides/54_AnnetteThurow_LookAndListenMap.odp",
+  "timestamp": "20121215165928",
+  "wayback": "https://web.archive.org/web/20121215165928/http://sotm-eu.org/slides/54_AnnetteThurow_LookAndListenMap.odp",
+  "mime_type": "application/vnd.oasis.opendocument.presentation",
+  "bytes": 8047231
+ },
+ {
+  "path": "slides/54_AnnetteThurow_LookAndListenMap.pdf",
+  "route": "/slides/54_AnnetteThurow_LookAndListenMap.pdf",
+  "source": "http://sotm-eu.org/slides/54_AnnetteThurow_LookAndListenMap.pdf",
+  "timestamp": "20121215114036",
+  "wayback": "https://web.archive.org/web/20121215114036/http://sotm-eu.org/slides/54_AnnetteThurow_LookAndListenMap.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 543647
+ },
+ {
+  "path": "slides/54_AnnetteThurow_OSMForTheBlind.mp3",
+  "route": "/slides/54_AnnetteThurow_OSMForTheBlind.mp3",
+  "source": "http://sotm-eu.org/slides/54_AnnetteThurow_OSMForTheBlind.mp3",
+  "timestamp": "20121215150831",
+  "wayback": "https://web.archive.org/web/20121215150831/http://sotm-eu.org/slides/54_AnnetteThurow_OSMForTheBlind.mp3",
+  "mime_type": "audio/mpeg",
+  "bytes": 27725513
+ },
+ {
+  "path": "slides/55_MichaelZilske_TrafficSimulation.pdf",
+  "route": "/slides/55_MichaelZilske_TrafficSimulation.pdf",
+  "source": "http://sotm-eu.org/slides/55_MichaelZilske_TrafficSimulation.pdf",
+  "timestamp": "20121215124243",
+  "wayback": "https://web.archive.org/web/20121215124243/http://sotm-eu.org/slides/55_MichaelZilske_TrafficSimulation.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 1123340
+ },
+ {
+  "path": "slides/57_Imports.pdf",
+  "route": "/slides/57_Imports.pdf",
+  "source": "http://sotm-eu.org/slides/57_Imports.pdf",
+  "timestamp": "20121215130151",
+  "wayback": "https://web.archive.org/web/20121215130151/http://sotm-eu.org/slides/57_Imports.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 1805737
+ },
+ {
+  "path": "slides/58_HermannKraus_vortrag.pdf",
+  "route": "/slides/58_HermannKraus_vortrag.pdf",
+  "source": "http://sotm-eu.org/slides/58_HermannKraus_vortrag.pdf",
+  "timestamp": "20121215150106",
+  "wayback": "https://web.archive.org/web/20121215150106/http://sotm-eu.org/slides/58_HermannKraus_vortrag.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 490740
+ },
+ {
+  "path": "slides/59_EdFreyfogle_Mapstraction.pdf",
+  "route": "/slides/59_EdFreyfogle_Mapstraction.pdf",
+  "source": "http://sotm-eu.org/slides/59_EdFreyfogle_Mapstraction.pdf",
+  "timestamp": "20121215153824",
+  "wayback": "https://web.archive.org/web/20121215153824/http://sotm-eu.org/slides/59_EdFreyfogle_Mapstraction.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 6268320
+ },
+ {
+  "path": "slides/61_HaraldKleiner_SotM.pdf",
+  "route": "/slides/61_HaraldKleiner_SotM.pdf",
+  "source": "http://sotm-eu.org/slides/61_HaraldKleiner_SotM.pdf",
+  "timestamp": "20121215153902",
+  "wayback": "https://web.archive.org/web/20121215153902/http://sotm-eu.org/slides/61_HaraldKleiner_SotM.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 3726291
+ },
+ {
+  "path": "slides/62_BartoszFabianowski.pdf",
+  "route": "/slides/62_BartoszFabianowski.pdf",
+  "source": "http://sotm-eu.org/slides/62_BartoszFabianowski.pdf",
+  "timestamp": "20121215150132",
+  "wayback": "https://web.archive.org/web/20121215150132/http://sotm-eu.org/slides/62_BartoszFabianowski.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 4088849
+ },
+ {
+  "path": "slides/63_OliverRoick_OSMatrix.pdf",
+  "route": "/slides/63_OliverRoick_OSMatrix.pdf",
+  "source": "http://sotm-eu.org/slides/63_OliverRoick_OSMatrix.pdf",
+  "timestamp": "20121215115906",
+  "wayback": "https://web.archive.org/web/20121215115906/http://sotm-eu.org/slides/63_OliverRoick_OSMatrix.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 22746550
+ },
+ {
+  "path": "slides/66_MaurizioNapolitano_MVP_OSM.odp",
+  "route": "/slides/66_MaurizioNapolitano_MVP_OSM.odp",
+  "source": "http://sotm-eu.org/slides/66_MaurizioNapolitano_MVP_OSM.odp",
+  "timestamp": "20121215130238",
+  "wayback": "https://web.archive.org/web/20121215130238/http://sotm-eu.org/slides/66_MaurizioNapolitano_MVP_OSM.odp",
+  "mime_type": "application/vnd.oasis.opendocument.presentation",
+  "bytes": 3153501
+ },
+ {
+  "path": "slides/66_MaurizioNapolitano_MVP_OSM.pdf",
+  "route": "/slides/66_MaurizioNapolitano_MVP_OSM.pdf",
+  "source": "http://sotm-eu.org/slides/66_MaurizioNapolitano_MVP_OSM.pdf",
+  "timestamp": "20121215150911",
+  "wayback": "https://web.archive.org/web/20121215150911/http://sotm-eu.org/slides/66_MaurizioNapolitano_MVP_OSM.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 1773408
+ },
+ {
+  "path": "slides/67_AndrzejZaborowski_sotmeu-aerial.pdf",
+  "route": "/slides/67_AndrzejZaborowski_sotmeu-aerial.pdf",
+  "source": "http://sotm-eu.org/slides/67_AndrzejZaborowski_sotmeu-aerial.pdf",
+  "timestamp": "20121215170048",
+  "wayback": "https://web.archive.org/web/20121215170048/http://sotm-eu.org/slides/67_AndrzejZaborowski_sotmeu-aerial.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 9293068
+ },
+ {
+  "path": "slides/70_OliverOBrien_GEMMA.pdf",
+  "route": "/slides/70_OliverOBrien_GEMMA.pdf",
+  "source": "http://sotm-eu.org/slides/70_OliverOBrien_GEMMA.pdf",
+  "timestamp": "20121215172118",
+  "wayback": "https://web.archive.org/web/20121215172118/http://sotm-eu.org/slides/70_OliverOBrien_GEMMA.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 13140979
+ },
+ {
+  "path": "slides/71_RichardWeait_potw_numbers.pdf",
+  "route": "/slides/71_RichardWeait_potw_numbers.pdf",
+  "source": "http://sotm-eu.org/slides/71_RichardWeait_potw_numbers.pdf",
+  "timestamp": "20121215124303",
+  "wayback": "https://web.archive.org/web/20121215124303/http://sotm-eu.org/slides/71_RichardWeait_potw_numbers.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 1279963
+ },
+ {
+  "path": "slides/72_RaulKrauthausen_MappingForASocialCause.pdf",
+  "route": "/slides/72_RaulKrauthausen_MappingForASocialCause.pdf",
+  "source": "http://sotm-eu.org/slides/72_RaulKrauthausen_MappingForASocialCause.pdf",
+  "timestamp": "20121215132908",
+  "wayback": "https://web.archive.org/web/20121215132908/http://sotm-eu.org/slides/72_RaulKrauthausen_MappingForASocialCause.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 2497708
+ },
+ {
+  "path": "slides/73_AlexanderZipf_OSM-3D.pdf",
+  "route": "/slides/73_AlexanderZipf_OSM-3D.pdf",
+  "source": "http://sotm-eu.org/slides/73_AlexanderZipf_OSM-3D.pdf",
+  "timestamp": "20121215143139",
+  "wayback": "https://web.archive.org/web/20121215143139/http://sotm-eu.org/slides/73_AlexanderZipf_OSM-3D.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 13512832
+ },
+ {
+  "path": "slides/74_DennisLuxen.pdf",
+  "route": "/slides/74_DennisLuxen.pdf",
+  "source": "http://sotm-eu.org/slides/74_DennisLuxen.pdf",
+  "timestamp": "20121215122234",
+  "wayback": "https://web.archive.org/web/20121215122234/http://sotm-eu.org/slides/74_DennisLuxen.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 5277624
+ },
+ {
+  "path": "slides/7_MichalPalenik_freemap_SK.pdf",
+  "route": "/slides/7_MichalPalenik_freemap_SK.pdf",
+  "source": "http://sotm-eu.org/slides/7_MichalPalenik_freemap_SK.pdf",
+  "timestamp": "20121215122207",
+  "wayback": "https://web.archive.org/web/20121215122207/http://sotm-eu.org/slides/7_MichalPalenik_freemap_SK.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 6824414
+ },
+ {
+  "path": "slides/8_GregoryMarler_ProjectedHillMap.pdf",
+  "route": "/slides/8_GregoryMarler_ProjectedHillMap.pdf",
+  "source": "http://sotm-eu.org/slides/8_GregoryMarler_ProjectedHillMap.pdf",
+  "timestamp": "20121215162737",
+  "wayback": "https://web.archive.org/web/20121215162737/http://sotm-eu.org/slides/8_GregoryMarler_ProjectedHillMap.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 2149545
+ },
+ {
+  "path": "slides/9_MarcelHoevelmann_TransportAssociation.pdf",
+  "route": "/slides/9_MarcelHoevelmann_TransportAssociation.pdf",
+  "source": "http://sotm-eu.org/slides/9_MarcelHoevelmann_TransportAssociation.pdf",
+  "timestamp": "20121215121323",
+  "wayback": "https://web.archive.org/web/20121215121323/http://sotm-eu.org/slides/9_MarcelHoevelmann_TransportAssociation.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 1429165
+ },
+ {
+  "path": "slides/LT01_KonstantinKaefer_TileMill.pdf",
+  "route": "/slides/LT01_KonstantinKaefer_TileMill.pdf",
+  "source": "http://sotm-eu.org/slides/LT01_KonstantinKaefer_TileMill.pdf",
+  "timestamp": "20121215170826",
+  "wayback": "https://web.archive.org/web/20121215170826/http://sotm-eu.org/slides/LT01_KonstantinKaefer_TileMill.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 2763046
+ },
+ {
+  "path": "slides/LT02_IlyaZverev_RelationToolbox.pdf",
+  "route": "/slides/LT02_IlyaZverev_RelationToolbox.pdf",
+  "source": "http://sotm-eu.org/slides/LT02_IlyaZverev_RelationToolbox.pdf",
+  "timestamp": "20121215145821",
+  "wayback": "https://web.archive.org/web/20121215145821/http://sotm-eu.org/slides/LT02_IlyaZverev_RelationToolbox.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 1937263
+ },
+ {
+  "path": "slides/LT03_Komzpa_KothicJS.pdf",
+  "route": "/slides/LT03_Komzpa_KothicJS.pdf",
+  "source": "http://sotm-eu.org/slides/LT03_Komzpa_KothicJS.pdf",
+  "timestamp": "20121215125750",
+  "wayback": "https://web.archive.org/web/20121215125750/http://sotm-eu.org/slides/LT03_Komzpa_KothicJS.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 3426855
+ },
+ {
+  "path": "slides/LT04_TimAlder_Wikipedia.pdf",
+  "route": "/slides/LT04_TimAlder_Wikipedia.pdf",
+  "source": "http://sotm-eu.org/slides/LT04_TimAlder_Wikipedia.pdf",
+  "timestamp": "20121215150204",
+  "wayback": "https://web.archive.org/web/20121215150204/http://sotm-eu.org/slides/LT04_TimAlder_Wikipedia.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 732283
+ },
+ {
+  "path": "slides/LT05_KinyaInoue_Fukushima.pdf",
+  "route": "/slides/LT05_KinyaInoue_Fukushima.pdf",
+  "source": "http://sotm-eu.org/slides/LT05_KinyaInoue_Fukushima.pdf",
+  "timestamp": "20121215143355",
+  "wayback": "https://web.archive.org/web/20121215143355/http://sotm-eu.org/slides/LT05_KinyaInoue_Fukushima.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 15666805
+ },
+ {
+  "path": "slides/LT06_Komzpa_TWMS.pdf",
+  "route": "/slides/LT06_Komzpa_TWMS.pdf",
+  "source": "http://sotm-eu.org/slides/LT06_Komzpa_TWMS.pdf",
+  "timestamp": "20121215145939",
+  "wayback": "https://web.archive.org/web/20121215145939/http://sotm-eu.org/slides/LT06_Komzpa_TWMS.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 1808109
+ },
+ {
+  "path": "slides/LT07_GeorgyPotapov_FireMonitoring.pdf",
+  "route": "/slides/LT07_GeorgyPotapov_FireMonitoring.pdf",
+  "source": "http://sotm-eu.org/slides/LT07_GeorgyPotapov_FireMonitoring.pdf",
+  "timestamp": "20121215172100",
+  "wayback": "https://web.archive.org/web/20121215172100/http://sotm-eu.org/slides/LT07_GeorgyPotapov_FireMonitoring.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 1608031
+ },
+ {
+  "path": "slides/LT11_Komzpa_latlon_org.pdf",
+  "route": "/slides/LT11_Komzpa_latlon_org.pdf",
+  "source": "http://sotm-eu.org/slides/LT11_Komzpa_latlon_org.pdf",
+  "timestamp": "20121215170532",
+  "wayback": "https://web.archive.org/web/20121215170532/http://sotm-eu.org/slides/LT11_Komzpa_latlon_org.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 20407
+ },
+ {
+  "path": "slides/LT12_HenkHoff_OSMF_AoA_change.pdf",
+  "route": "/slides/LT12_HenkHoff_OSMF_AoA_change.pdf",
+  "source": "http://sotm-eu.org/slides/LT12_HenkHoff_OSMF_AoA_change.pdf",
+  "timestamp": "20121215114147",
+  "wayback": "https://web.archive.org/web/20121215114147/http://sotm-eu.org/slides/LT12_HenkHoff_OSMF_AoA_change.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 33229
+ },
+ {
+  "path": "slides/LT13_WolfgangSchreiter_Cleaning_up_plan.at.pdf",
+  "route": "/slides/LT13_WolfgangSchreiter_Cleaning_up_plan.at.pdf",
+  "source": "http://sotm-eu.org/slides/LT13_WolfgangSchreiter_Cleaning_up_plan.at.pdf",
+  "timestamp": "20121215170121",
+  "wayback": "https://web.archive.org/web/20121215170121/http://sotm-eu.org/slides/LT13_WolfgangSchreiter_Cleaning_up_plan.at.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 423745
+ },
+ {
+  "path": "sponsors/call/index.html",
+  "route": "/sponsors/call/",
+  "source": "http://sotm-eu.org/sponsors/call",
+  "timestamp": "20111101001724",
+  "wayback": "https://web.archive.org/web/20111101001724/http://sotm-eu.org/sponsors/call",
+  "mime_type": "text/html",
+  "bytes": 11186
+ },
+ {
+  "path": "sponsors/index.html",
+  "route": "/sponsors/",
+  "source": "http://sotm-eu.org/sponsors",
+  "timestamp": "20121215170801",
+  "wayback": "https://web.archive.org/web/20121215170801/http://sotm-eu.org/sponsors",
+  "mime_type": "text/html",
+  "bytes": 9383
+ },
+ {
+  "path": "talk/1/index.html",
+  "route": "/talk/1/",
+  "source": "http://sotm-eu.org/talk?1",
+  "timestamp": "20121215124346",
+  "wayback": "https://web.archive.org/web/20121215124346/http://sotm-eu.org/talk?1",
+  "mime_type": "text/html",
+  "bytes": 15530
+ },
+ {
+  "path": "talk/10/index.html",
+  "route": "/talk/10/",
+  "source": "http://sotm-eu.org/talk?10",
+  "timestamp": "20121215170931",
+  "wayback": "https://web.archive.org/web/20121215170931/http://sotm-eu.org/talk?10",
+  "mime_type": "text/html",
+  "bytes": 13090
+ },
+ {
+  "path": "talk/12/index.html",
+  "route": "/talk/12/",
+  "source": "http://sotm-eu.org/talk?12",
+  "timestamp": "20121215150054",
+  "wayback": "https://web.archive.org/web/20121215150054/http://sotm-eu.org/talk?12",
+  "mime_type": "text/html",
+  "bytes": 13097
+ },
+ {
+  "path": "talk/13/index.html",
+  "route": "/talk/13/",
+  "source": "http://sotm-eu.org/talk?13",
+  "timestamp": "20121215134626",
+  "wayback": "https://web.archive.org/web/20121215134626/http://sotm-eu.org/talk?13",
+  "mime_type": "text/html",
+  "bytes": 14614
+ },
+ {
+  "path": "talk/14/index.html",
+  "route": "/talk/14/",
+  "source": "http://sotm-eu.org/talk?14",
+  "timestamp": "20121215114114",
+  "wayback": "https://web.archive.org/web/20121215114114/http://sotm-eu.org/talk?14",
+  "mime_type": "text/html",
+  "bytes": 14603
+ },
+ {
+  "path": "talk/15/index.html",
+  "route": "/talk/15/",
+  "source": "http://sotm-eu.org/talk?15",
+  "timestamp": "20121215170813",
+  "wayback": "https://web.archive.org/web/20121215170813/http://sotm-eu.org/talk?15",
+  "mime_type": "text/html",
+  "bytes": 14406
+ },
+ {
+  "path": "talk/16/index.html",
+  "route": "/talk/16/",
+  "source": "http://sotm-eu.org/talk?16",
+  "timestamp": "20121215134043",
+  "wayback": "https://web.archive.org/web/20121215134043/http://sotm-eu.org/talk?16",
+  "mime_type": "text/html",
+  "bytes": 13140
+ },
+ {
+  "path": "talk/17/index.html",
+  "route": "/talk/17/",
+  "source": "http://sotm-eu.org/talk?17",
+  "timestamp": "20121215150232",
+  "wayback": "https://web.archive.org/web/20121215150232/http://sotm-eu.org/talk?17",
+  "mime_type": "text/html",
+  "bytes": 13000
+ },
+ {
+  "path": "talk/18/index.html",
+  "route": "/talk/18/",
+  "source": "http://sotm-eu.org/talk?18",
+  "timestamp": "20121215145242",
+  "wayback": "https://web.archive.org/web/20121215145242/http://sotm-eu.org/talk?18",
+  "mime_type": "text/html",
+  "bytes": 14648
+ },
+ {
+  "path": "talk/19/index.html",
+  "route": "/talk/19/",
+  "source": "http://sotm-eu.org/talk?19",
+  "timestamp": "20121215134832",
+  "wayback": "https://web.archive.org/web/20121215134832/http://sotm-eu.org/talk?19",
+  "mime_type": "text/html",
+  "bytes": 14473
+ },
+ {
+  "path": "talk/21/index.html",
+  "route": "/talk/21/",
+  "source": "http://sotm-eu.org/talk?21",
+  "timestamp": "20121215165955",
+  "wayback": "https://web.archive.org/web/20121215165955/http://sotm-eu.org/talk?21",
+  "mime_type": "text/html",
+  "bytes": 18143
+ },
+ {
+  "path": "talk/22/index.html",
+  "route": "/talk/22/",
+  "source": "http://sotm-eu.org/talk?22",
+  "timestamp": "20121215134808",
+  "wayback": "https://web.archive.org/web/20121215134808/http://sotm-eu.org/talk?22",
+  "mime_type": "text/html",
+  "bytes": 15667
+ },
+ {
+  "path": "talk/23/index.html",
+  "route": "/talk/23/",
+  "source": "http://sotm-eu.org/talk?23",
+  "timestamp": "20121215143518",
+  "wayback": "https://web.archive.org/web/20121215143518/http://sotm-eu.org/talk?23",
+  "mime_type": "text/html",
+  "bytes": 13677
+ },
+ {
+  "path": "talk/27/index.html",
+  "route": "/talk/27/",
+  "source": "http://sotm-eu.org/talk?27",
+  "timestamp": "20121215134638",
+  "wayback": "https://web.archive.org/web/20121215134638/http://sotm-eu.org/talk?27",
+  "mime_type": "text/html",
+  "bytes": 14646
+ },
+ {
+  "path": "talk/29/index.html",
+  "route": "/talk/29/",
+  "source": "http://sotm-eu.org/talk?29",
+  "timestamp": "20121215145924",
+  "wayback": "https://web.archive.org/web/20121215145924/http://sotm-eu.org/talk?29",
+  "mime_type": "text/html",
+  "bytes": 14372
+ },
+ {
+  "path": "talk/3/index.html",
+  "route": "/talk/3/",
+  "source": "http://sotm-eu.org/talk?3",
+  "timestamp": "20121215132552",
+  "wayback": "https://web.archive.org/web/20121215132552/http://sotm-eu.org/talk?3",
+  "mime_type": "text/html",
+  "bytes": 13945
+ },
+ {
+  "path": "talk/31/index.html",
+  "route": "/talk/31/",
+  "source": "http://sotm-eu.org/talk?31",
+  "timestamp": "20121215154111",
+  "wayback": "https://web.archive.org/web/20121215154111/http://sotm-eu.org/talk?31",
+  "mime_type": "text/html",
+  "bytes": 15396
+ },
+ {
+  "path": "talk/32/index.html",
+  "route": "/talk/32/",
+  "source": "http://sotm-eu.org/talk?32",
+  "timestamp": "20121215122332",
+  "wayback": "https://web.archive.org/web/20121215122332/http://sotm-eu.org/talk?32",
+  "mime_type": "text/html",
+  "bytes": 14021
+ },
+ {
+  "path": "talk/34/index.html",
+  "route": "/talk/34/",
+  "source": "http://sotm-eu.org/talk?34",
+  "timestamp": "20110421064742",
+  "wayback": "https://web.archive.org/web/20110421064742/http://sotm-eu.org/talk?34",
+  "mime_type": "text/html",
+  "bytes": 11858
+ },
+ {
+  "path": "talk/35/index.html",
+  "route": "/talk/35/",
+  "source": "http://sotm-eu.org/talk?35",
+  "timestamp": "20121215131915",
+  "wayback": "https://web.archive.org/web/20121215131915/http://sotm-eu.org/talk?35",
+  "mime_type": "text/html",
+  "bytes": 16705
+ },
+ {
+  "path": "talk/36/index.html",
+  "route": "/talk/36/",
+  "source": "http://sotm-eu.org/talk?36",
+  "timestamp": "20121215163950",
+  "wayback": "https://web.archive.org/web/20121215163950/http://sotm-eu.org/talk?36",
+  "mime_type": "text/html",
+  "bytes": 15999
+ },
+ {
+  "path": "talk/37/index.html",
+  "route": "/talk/37/",
+  "source": "http://sotm-eu.org/talk?37",
+  "timestamp": "20121215122422",
+  "wayback": "https://web.archive.org/web/20121215122422/http://sotm-eu.org/talk?37",
+  "mime_type": "text/html",
+  "bytes": 14706
+ },
+ {
+  "path": "talk/38/index.html",
+  "route": "/talk/38/",
+  "source": "http://sotm-eu.org/talk?38",
+  "timestamp": "20121215124421",
+  "wayback": "https://web.archive.org/web/20121215124421/http://sotm-eu.org/talk?38",
+  "mime_type": "text/html",
+  "bytes": 14696
+ },
+ {
+  "path": "talk/4/index.html",
+  "route": "/talk/4/",
+  "source": "http://sotm-eu.org/talk?4",
+  "timestamp": "20121215122347",
+  "wayback": "https://web.archive.org/web/20121215122347/http://sotm-eu.org/talk?4",
+  "mime_type": "text/html",
+  "bytes": 13213
+ },
+ {
+  "path": "talk/40/index.html",
+  "route": "/talk/40/",
+  "source": "http://sotm-eu.org/talk?40",
+  "timestamp": "20121215133505",
+  "wayback": "https://web.archive.org/web/20121215133505/http://sotm-eu.org/talk?40",
+  "mime_type": "text/html",
+  "bytes": 14113
+ },
+ {
+  "path": "talk/41/index.html",
+  "route": "/talk/41/",
+  "source": "http://sotm-eu.org/talk?41",
+  "timestamp": "20121215140115",
+  "wayback": "https://web.archive.org/web/20121215140115/http://sotm-eu.org/talk?41",
+  "mime_type": "text/html",
+  "bytes": 14483
+ },
+ {
+  "path": "talk/42/index.html",
+  "route": "/talk/42/",
+  "source": "http://sotm-eu.org/talk?42",
+  "timestamp": "20121215122316",
+  "wayback": "https://web.archive.org/web/20121215122316/http://sotm-eu.org/talk?42",
+  "mime_type": "text/html",
+  "bytes": 15088
+ },
+ {
+  "path": "talk/46/index.html",
+  "route": "/talk/46/",
+  "source": "http://sotm-eu.org/talk?46",
+  "timestamp": "20121215171956",
+  "wayback": "https://web.archive.org/web/20121215171956/http://sotm-eu.org/talk?46",
+  "mime_type": "text/html",
+  "bytes": 15339
+ },
+ {
+  "path": "talk/48/index.html",
+  "route": "/talk/48/",
+  "source": "http://sotm-eu.org/talk?48",
+  "timestamp": "20121215121302",
+  "wayback": "https://web.archive.org/web/20121215121302/http://sotm-eu.org/talk?48",
+  "mime_type": "text/html",
+  "bytes": 14439
+ },
+ {
+  "path": "talk/49/index.html",
+  "route": "/talk/49/",
+  "source": "http://sotm-eu.org/talk?49",
+  "timestamp": "20121215172048",
+  "wayback": "https://web.archive.org/web/20121215172048/http://sotm-eu.org/talk?49",
+  "mime_type": "text/html",
+  "bytes": 13611
+ },
+ {
+  "path": "talk/50/index.html",
+  "route": "/talk/50/",
+  "source": "http://sotm-eu.org/talk?50",
+  "timestamp": "20121215130040",
+  "wayback": "https://web.archive.org/web/20121215130040/http://sotm-eu.org/talk?50",
+  "mime_type": "text/html",
+  "bytes": 15234
+ },
+ {
+  "path": "talk/51/index.html",
+  "route": "/talk/51/",
+  "source": "http://sotm-eu.org/talk?51",
+  "timestamp": "20121215165736",
+  "wayback": "https://web.archive.org/web/20121215165736/http://sotm-eu.org/talk?51",
+  "mime_type": "text/html",
+  "bytes": 13092
+ },
+ {
+  "path": "talk/52/index.html",
+  "route": "/talk/52/",
+  "source": "http://sotm-eu.org/talk?52",
+  "timestamp": "20121215130226",
+  "wayback": "https://web.archive.org/web/20121215130226/http://sotm-eu.org/talk?52",
+  "mime_type": "text/html",
+  "bytes": 13869
+ },
+ {
+  "path": "talk/54/index.html",
+  "route": "/talk/54/",
+  "source": "http://sotm-eu.org/talk?54",
+  "timestamp": "20121215165917",
+  "wayback": "https://web.archive.org/web/20121215165917/http://sotm-eu.org/talk?54",
+  "mime_type": "text/html",
+  "bytes": 13402
+ },
+ {
+  "path": "talk/55/index.html",
+  "route": "/talk/55/",
+  "source": "http://sotm-eu.org/talk?55",
+  "timestamp": "20121215125827",
+  "wayback": "https://web.archive.org/web/20121215125827/http://sotm-eu.org/talk?55",
+  "mime_type": "text/html",
+  "bytes": 15911
+ },
+ {
+  "path": "talk/56/index.html",
+  "route": "/talk/56/",
+  "source": "http://sotm-eu.org/talk?56",
+  "timestamp": "20121215151916",
+  "wayback": "https://web.archive.org/web/20121215151916/http://sotm-eu.org/talk?56",
+  "mime_type": "text/html",
+  "bytes": 12897
+ },
+ {
+  "path": "talk/57/index.html",
+  "route": "/talk/57/",
+  "source": "http://sotm-eu.org/talk?57",
+  "timestamp": "20121230192856",
+  "wayback": "https://web.archive.org/web/20121230192856/http://sotm-eu.org/talk?57",
+  "mime_type": "text/html",
+  "bytes": 12788
+ },
+ {
+  "path": "talk/58/index.html",
+  "route": "/talk/58/",
+  "source": "http://sotm-eu.org/talk?58",
+  "timestamp": "20121215131414",
+  "wayback": "https://web.archive.org/web/20121215131414/http://sotm-eu.org/talk?58",
+  "mime_type": "text/html",
+  "bytes": 13900
+ },
+ {
+  "path": "talk/59/index.html",
+  "route": "/talk/59/",
+  "source": "http://sotm-eu.org/talk?59",
+  "timestamp": "20121215151839",
+  "wayback": "https://web.archive.org/web/20121215151839/http://sotm-eu.org/talk?59",
+  "mime_type": "text/html",
+  "bytes": 13949
+ },
+ {
+  "path": "talk/61/index.html",
+  "route": "/talk/61/",
+  "source": "http://sotm-eu.org/talk%4061.html",
+  "timestamp": "20130602060304",
+  "wayback": "https://web.archive.org/web/20130602060304/http://sotm-eu.org/talk%4061.html",
+  "mime_type": "text/html",
+  "bytes": 13437
+ },
+ {
+  "path": "talk/62/index.html",
+  "route": "/talk/62/",
+  "source": "http://sotm-eu.org/talk?62",
+  "timestamp": "20121215151325",
+  "wayback": "https://web.archive.org/web/20121215151325/http://sotm-eu.org/talk?62",
+  "mime_type": "text/html",
+  "bytes": 15766
+ },
+ {
+  "path": "talk/63/index.html",
+  "route": "/talk/63/",
+  "source": "http://sotm-eu.org/talk?63",
+  "timestamp": "20121215131001",
+  "wayback": "https://web.archive.org/web/20121215131001/http://sotm-eu.org/talk?63",
+  "mime_type": "text/html",
+  "bytes": 15599
+ },
+ {
+  "path": "talk/66/index.html",
+  "route": "/talk/66/",
+  "source": "http://sotm-eu.org/talk?66",
+  "timestamp": "20121215131426",
+  "wayback": "https://web.archive.org/web/20121215131426/http://sotm-eu.org/talk?66",
+  "mime_type": "text/html",
+  "bytes": 15348
+ },
+ {
+  "path": "talk/67/index.html",
+  "route": "/talk/67/",
+  "source": "http://sotm-eu.org/talk?67",
+  "timestamp": "20121215150820",
+  "wayback": "https://web.archive.org/web/20121215150820/http://sotm-eu.org/talk?67",
+  "mime_type": "text/html",
+  "bytes": 13824
+ },
+ {
+  "path": "talk/69/index.html",
+  "route": "/talk/69/",
+  "source": "http://sotm-eu.org/talk?69",
+  "timestamp": "20110421062906",
+  "wayback": "https://web.archive.org/web/20110421062906/http://sotm-eu.org/talk?69",
+  "mime_type": "text/html",
+  "bytes": 13581
+ },
+ {
+  "path": "talk/7/index.html",
+  "route": "/talk/7/",
+  "source": "http://sotm-eu.org/talk?7",
+  "timestamp": "20121215162713",
+  "wayback": "https://web.archive.org/web/20121215162713/http://sotm-eu.org/talk?7",
+  "mime_type": "text/html",
+  "bytes": 13501
+ },
+ {
+  "path": "talk/70/index.html",
+  "route": "/talk/70/",
+  "source": "http://sotm-eu.org/talk?70",
+  "timestamp": "20121215143343",
+  "wayback": "https://web.archive.org/web/20121215143343/http://sotm-eu.org/talk?70",
+  "mime_type": "text/html",
+  "bytes": 14627
+ },
+ {
+  "path": "talk/71/index.html",
+  "route": "/talk/71/",
+  "source": "http://sotm-eu.org/talk?71",
+  "timestamp": "20121215132848",
+  "wayback": "https://web.archive.org/web/20121215132848/http://sotm-eu.org/talk?71",
+  "mime_type": "text/html",
+  "bytes": 13114
+ },
+ {
+  "path": "talk/72/index.html",
+  "route": "/talk/72/",
+  "source": "http://sotm-eu.org/talk?72",
+  "timestamp": "20121215172037",
+  "wayback": "https://web.archive.org/web/20121215172037/http://sotm-eu.org/talk?72",
+  "mime_type": "text/html",
+  "bytes": 16145
+ },
+ {
+  "path": "talk/73/index.html",
+  "route": "/talk/73/",
+  "source": "http://sotm-eu.org/talk?73",
+  "timestamp": "20121215120516",
+  "wayback": "https://web.archive.org/web/20121215120516/http://sotm-eu.org/talk?73",
+  "mime_type": "text/html",
+  "bytes": 15710
+ },
+ {
+  "path": "talk/74/index.html",
+  "route": "/talk/74/",
+  "source": "http://sotm-eu.org/talk?74",
+  "timestamp": "20121215133427",
+  "wayback": "https://web.archive.org/web/20121215133427/http://sotm-eu.org/talk?74",
+  "mime_type": "text/html",
+  "bytes": 13539
+ },
+ {
+  "path": "talk/75/index.html",
+  "route": "/talk/75/",
+  "source": "http://sotm-eu.org/talk?75",
+  "timestamp": "20121215143127",
+  "wayback": "https://web.archive.org/web/20121215143127/http://sotm-eu.org/talk?75",
+  "mime_type": "text/html",
+  "bytes": 11224
+ },
+ {
+  "path": "talk/76/index.html",
+  "route": "/talk/76/",
+  "source": "http://sotm-eu.org/talk?76",
+  "timestamp": "20121215115831",
+  "wayback": "https://web.archive.org/web/20121215115831/http://sotm-eu.org/talk?76",
+  "mime_type": "text/html",
+  "bytes": 12584
+ },
+ {
+  "path": "talk/77/index.html",
+  "route": "/talk/77/",
+  "source": "http://sotm-eu.org/talk?77",
+  "timestamp": "20121215172147",
+  "wayback": "https://web.archive.org/web/20121215172147/http://sotm-eu.org/talk?77",
+  "mime_type": "text/html",
+  "bytes": 12909
+ },
+ {
+  "path": "talk/8/index.html",
+  "route": "/talk/8/",
+  "source": "http://sotm-eu.org/talk?8",
+  "timestamp": "20121215153927",
+  "wayback": "https://web.archive.org/web/20121215153927/http://sotm-eu.org/talk?8",
+  "mime_type": "text/html",
+  "bytes": 14386
+ },
+ {
+  "path": "talk/9/index.html",
+  "route": "/talk/9/",
+  "source": "http://sotm-eu.org/talk?9",
+  "timestamp": "20121215132713",
+  "wayback": "https://web.archive.org/web/20121215132713/http://sotm-eu.org/talk?9",
+  "mime_type": "text/html",
+  "bytes": 16888
+ },
+ {
+  "path": "talk/index.html",
+  "route": "/talk/",
+  "source": "http://sotm-eu.org/talk",
+  "timestamp": "20121222001403",
+  "wayback": "https://web.archive.org/web/20121222001403/http://sotm-eu.org/talk",
+  "mime_type": "text/html",
+  "bytes": 9845
+ },
+ {
+  "path": "travel/index.html",
+  "route": "/travel/",
+  "source": "http://sotm-eu.org/travel",
+  "timestamp": "20121215164347",
+  "wayback": "https://web.archive.org/web/20121215164347/http://sotm-eu.org/travel",
+  "mime_type": "text/html",
+  "bytes": 10472
+ },
+ {
+  "path": "userfiles/2007_machester.jpg",
+  "route": "/userfiles/2007_machester.jpg",
+  "source": "http://sotm-eu.org/userfiles/2007_machester.jpg",
+  "timestamp": "20111101002359",
+  "wayback": "https://web.archive.org/web/20111101002359/http://sotm-eu.org/userfiles/2007_machester.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 45535
+ },
+ {
+  "path": "userfiles/2008_limerick.jpg",
+  "route": "/userfiles/2008_limerick.jpg",
+  "source": "http://sotm-eu.org/userfiles/2008_limerick.jpg",
+  "timestamp": "20111101000217",
+  "wayback": "https://web.archive.org/web/20111101000217/http://sotm-eu.org/userfiles/2008_limerick.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 28932
+ },
+ {
+  "path": "userfiles/2009_amsterdam.jpg",
+  "route": "/userfiles/2009_amsterdam.jpg",
+  "source": "http://sotm-eu.org/userfiles/2009_amsterdam.jpg",
+  "timestamp": "20111101000800",
+  "wayback": "https://web.archive.org/web/20111101000800/http://sotm-eu.org/userfiles/2009_amsterdam.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 78010
+ },
+ {
+  "path": "userfiles/2010_girona.jpg",
+  "route": "/userfiles/2010_girona.jpg",
+  "source": "http://sotm-eu.org/userfiles/2010_girona.jpg",
+  "timestamp": "20111101000745",
+  "wayback": "https://web.archive.org/web/20111101000745/http://sotm-eu.org/userfiles/2010_girona.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 52371
+ },
+ {
+  "path": "userfiles/Muki.jpg",
+  "route": "/userfiles/Muki.jpg",
+  "source": "http://sotm-eu.org/userfiles/Muki.jpg",
+  "timestamp": "20130621093314",
+  "wayback": "https://web.archive.org/web/20130621093314/http://sotm-eu.org/userfiles/Muki.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 13502
+ },
+ {
+  "path": "userfiles/OGD_konferenz.png",
+  "route": "/userfiles/OGD_konferenz.png",
+  "source": "http://sotm-eu.org/userfiles/OGD_konferenz.png",
+  "timestamp": "20130701090035",
+  "wayback": "https://web.archive.org/web/20130701090035/http://sotm-eu.org/userfiles/OGD_konferenz.png",
+  "mime_type": "image/png",
+  "bytes": 2510
+ },
+ {
+  "path": "userfiles/SteveC.jpg",
+  "route": "/userfiles/SteveC.jpg",
+  "source": "http://sotm-eu.org/userfiles/SteveC.jpg",
+  "timestamp": "20111101082305",
+  "wayback": "https://web.archive.org/web/20111101082305/http://sotm-eu.org/userfiles/SteveC.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 15445
+ },
+ {
+  "path": "userfiles/TU-EI.png",
+  "route": "/userfiles/TU-EI.png",
+  "source": "http://sotm-eu.org/userfiles/TU-EI.png",
+  "timestamp": "20111101082353",
+  "wayback": "https://web.archive.org/web/20111101082353/http://sotm-eu.org/userfiles/TU-EI.png",
+  "mime_type": "image/png",
+  "bytes": 28393
+ },
+ {
+  "path": "userfiles/alladin_it.gif",
+  "route": "/userfiles/alladin_it.gif",
+  "source": "http://sotm-eu.org/userfiles/alladin_it.gif",
+  "timestamp": "20130701100234",
+  "wayback": "https://web.archive.org/web/20130701100234/http://sotm-eu.org/userfiles/alladin_it.gif",
+  "mime_type": "image/gif",
+  "bytes": 2108
+ },
+ {
+  "path": "userfiles/badge_fr.png",
+  "route": "/userfiles/badge_fr.png",
+  "source": "http://sotm-eu.org/userfiles/badge_fr.png",
+  "timestamp": "20111027054909",
+  "wayback": "https://web.archive.org/web/20111027054909/http://sotm-eu.org/userfiles/badge_fr.png",
+  "mime_type": "image/png",
+  "bytes": 3757
+ },
+ {
+  "path": "userfiles/bing.png",
+  "route": "/userfiles/bing.png",
+  "source": "http://sotm-eu.org/userfiles/bing.png",
+  "timestamp": "20130114090018",
+  "wayback": "https://web.archive.org/web/20130114090018/http://sotm-eu.org/userfiles/bing.png",
+  "mime_type": "image/png",
+  "bytes": 1027
+ },
+ {
+  "path": "userfiles/bing_blog.png",
+  "route": "/userfiles/bing_blog.png",
+  "source": "http://sotm-eu.org/userfiles/bing_blog.png",
+  "timestamp": "20130701085455",
+  "wayback": "https://web.archive.org/web/20130701085455/http://sotm-eu.org/userfiles/bing_blog.png",
+  "mime_type": "image/png",
+  "bytes": 4096
+ },
+ {
+  "path": "userfiles/camera.png",
+  "route": "/userfiles/camera.png",
+  "source": "http://sotm-eu.org/userfiles/camera.png",
+  "timestamp": "20130701095510",
+  "wayback": "https://web.archive.org/web/20130701095510/http://sotm-eu.org/userfiles/camera.png",
+  "mime_type": "image/png",
+  "bytes": 402
+ },
+ {
+  "path": "userfiles/delicious.gif",
+  "route": "/userfiles/delicious.gif",
+  "source": "http://sotm-eu.org/userfiles/delicious.gif",
+  "timestamp": "20130621092600",
+  "wayback": "https://web.archive.org/web/20130621092600/http://sotm-eu.org/userfiles/delicious.gif",
+  "mime_type": "image/gif",
+  "bytes": 96
+ },
+ {
+  "path": "userfiles/dl.png",
+  "route": "/userfiles/dl.png",
+  "source": "http://sotm-eu.org/userfiles/dl.png",
+  "timestamp": "20121215145131",
+  "wayback": "https://web.archive.org/web/20121215145131/http://sotm-eu.org/userfiles/dl.png",
+  "mime_type": "image/png",
+  "bytes": 156
+ },
+ {
+  "path": "userfiles/esri.png",
+  "route": "/userfiles/esri.png",
+  "source": "http://sotm-eu.org/userfiles/esri.png",
+  "timestamp": "20130621090147",
+  "wayback": "https://web.archive.org/web/20130621090147/http://sotm-eu.org/userfiles/esri.png",
+  "mime_type": "image/png",
+  "bytes": 10636
+ },
+ {
+  "path": "userfiles/esri_big.png",
+  "route": "/userfiles/esri_big.png",
+  "source": "http://sotm-eu.org/userfiles/esri_big.png",
+  "timestamp": "20130114083019",
+  "wayback": "https://web.archive.org/web/20130114083019/http://sotm-eu.org/userfiles/esri_big.png",
+  "mime_type": "image/png",
+  "bytes": 17368
+ },
+ {
+  "path": "userfiles/flickr.png",
+  "route": "/userfiles/flickr.png",
+  "source": "http://sotm-eu.org/userfiles/flickr.png",
+  "timestamp": "20130621093122",
+  "wayback": "https://web.archive.org/web/20130621093122/http://sotm-eu.org/userfiles/flickr.png",
+  "mime_type": "image/png",
+  "bytes": 468
+ },
+ {
+  "path": "userfiles/geofabrik.png",
+  "route": "/userfiles/geofabrik.png",
+  "source": "http://sotm-eu.org/userfiles/geofabrik.png",
+  "timestamp": "20130621093440",
+  "wayback": "https://web.archive.org/web/20130621093440/http://sotm-eu.org/userfiles/geofabrik.png",
+  "mime_type": "image/png",
+  "bytes": 2439
+ },
+ {
+  "path": "userfiles/gif.png",
+  "route": "/userfiles/gif.png",
+  "source": "http://sotm-eu.org/userfiles/gif.png",
+  "timestamp": "20121215141350",
+  "wayback": "https://web.archive.org/web/20121215141350/http://sotm-eu.org/userfiles/gif.png",
+  "mime_type": "image/png",
+  "bytes": 641
+ },
+ {
+  "path": "userfiles/ica.gif",
+  "route": "/userfiles/ica.gif",
+  "source": "http://sotm-eu.org/userfiles/ica.gif",
+  "timestamp": "20130701091904",
+  "wayback": "https://web.archive.org/web/20130701091904/http://sotm-eu.org/userfiles/ica.gif",
+  "mime_type": "image/gif",
+  "bytes": 4273
+ },
+ {
+  "path": "userfiles/ical.png",
+  "route": "/userfiles/ical.png",
+  "source": "http://sotm-eu.org/userfiles/ical.png",
+  "timestamp": "20130701102414",
+  "wayback": "https://web.archive.org/web/20130701102414/http://sotm-eu.org/userfiles/ical.png",
+  "mime_type": "image/png",
+  "bytes": 514
+ },
+ {
+  "path": "userfiles/infoware.gif",
+  "route": "/userfiles/infoware.gif",
+  "source": "http://sotm-eu.org/userfiles/infoware.gif",
+  "timestamp": "20130621090920",
+  "wayback": "https://web.archive.org/web/20130621090920/http://sotm-eu.org/userfiles/infoware.gif",
+  "mime_type": "image/gif",
+  "bytes": 4550
+ },
+ {
+  "path": "userfiles/iosphere.png",
+  "route": "/userfiles/iosphere.png",
+  "source": "http://sotm-eu.org/userfiles/iosphere.png",
+  "timestamp": "20130621091311",
+  "wayback": "https://web.archive.org/web/20130621091311/http://sotm-eu.org/userfiles/iosphere.png",
+  "mime_type": "image/png",
+  "bytes": 3887
+ },
+ {
+  "path": "userfiles/iosphere_big.png",
+  "route": "/userfiles/iosphere_big.png",
+  "source": "http://sotm-eu.org/userfiles/iosphere_big.png",
+  "timestamp": "20130701102302",
+  "wayback": "https://web.archive.org/web/20130701102302/http://sotm-eu.org/userfiles/iosphere_big.png",
+  "mime_type": "image/png",
+  "bytes": 7478
+ },
+ {
+  "path": "userfiles/ispa.gif",
+  "route": "/userfiles/ispa.gif",
+  "source": "http://sotm-eu.org/userfiles/ispa.gif",
+  "timestamp": "20130621081737",
+  "wayback": "https://web.archive.org/web/20130621081737/http://sotm-eu.org/userfiles/ispa.gif",
+  "mime_type": "image/gif",
+  "bytes": 5324
+ },
+ {
+  "path": "userfiles/mozilla.png",
+  "route": "/userfiles/mozilla.png",
+  "source": "http://sotm-eu.org/userfiles/mozilla.png",
+  "timestamp": "20130701085445",
+  "wayback": "https://web.archive.org/web/20130701085445/http://sotm-eu.org/userfiles/mozilla.png",
+  "mime_type": "image/png",
+  "bytes": 892
+ },
+ {
+  "path": "userfiles/mozilla_blog.png",
+  "route": "/userfiles/mozilla_blog.png",
+  "source": "http://sotm-eu.org/userfiles/mozilla_blog.png",
+  "timestamp": "20130621084510",
+  "wayback": "https://web.archive.org/web/20130621084510/http://sotm-eu.org/userfiles/mozilla_blog.png",
+  "mime_type": "image/png",
+  "bytes": 1193
+ },
+ {
+  "path": "userfiles/mp3.png",
+  "route": "/userfiles/mp3.png",
+  "source": "http://sotm-eu.org/userfiles/mp3.png",
+  "timestamp": "20121215141431",
+  "wayback": "https://web.archive.org/web/20121215141431/http://sotm-eu.org/userfiles/mp3.png",
+  "mime_type": "image/png",
+  "bytes": 575
+ },
+ {
+  "path": "userfiles/nestoria.png",
+  "route": "/userfiles/nestoria.png",
+  "source": "http://sotm-eu.org/userfiles/nestoria.png",
+  "timestamp": "20130621092850",
+  "wayback": "https://web.archive.org/web/20130621092850/http://sotm-eu.org/userfiles/nestoria.png",
+  "mime_type": "image/png",
+  "bytes": 3095
+ },
+ {
+  "path": "userfiles/nestoria_big.png",
+  "route": "/userfiles/nestoria_big.png",
+  "source": "http://sotm-eu.org/userfiles/nestoria_big.png",
+  "timestamp": "20111101082405",
+  "wayback": "https://web.archive.org/web/20111101082405/http://sotm-eu.org/userfiles/nestoria_big.png",
+  "mime_type": "image/png",
+  "bytes": 2158
+ },
+ {
+  "path": "userfiles/odp.png",
+  "route": "/userfiles/odp.png",
+  "source": "http://sotm-eu.org/userfiles/odp.png",
+  "timestamp": "20121215130321",
+  "wayback": "https://web.archive.org/web/20121215130321/http://sotm-eu.org/userfiles/odp.png",
+  "mime_type": "image/png",
+  "bytes": 591
+ },
+ {
+  "path": "userfiles/osm16.png",
+  "route": "/userfiles/osm16.png",
+  "source": "http://sotm-eu.org/userfiles/osm16.png",
+  "timestamp": "20130701103545",
+  "wayback": "https://web.archive.org/web/20130701103545/http://sotm-eu.org/userfiles/osm16.png",
+  "mime_type": "image/png",
+  "bytes": 762
+ },
+ {
+  "path": "userfiles/osmAT.gif",
+  "route": "/userfiles/osmAT.gif",
+  "source": "http://sotm-eu.org/userfiles/osmAT.gif",
+  "timestamp": "20130621092422",
+  "wayback": "https://web.archive.org/web/20130621092422/http://sotm-eu.org/userfiles/osmAT.gif",
+  "mime_type": "image/gif",
+  "bytes": 4101
+ },
+ {
+  "path": "userfiles/pdf.gif",
+  "route": "/userfiles/pdf.gif",
+  "source": "http://sotm-eu.org/userfiles/pdf.gif",
+  "timestamp": "20121215121412",
+  "wayback": "https://web.archive.org/web/20121215121412/http://sotm-eu.org/userfiles/pdf.gif",
+  "mime_type": "image/gif",
+  "bytes": 1008
+ },
+ {
+  "path": "userfiles/pdf.png",
+  "route": "/userfiles/pdf.png",
+  "source": "http://sotm-eu.org/userfiles/pdf.png",
+  "timestamp": "20121215131841",
+  "wayback": "https://web.archive.org/web/20121215131841/http://sotm-eu.org/userfiles/pdf.png",
+  "mime_type": "image/png",
+  "bytes": 635
+ },
+ {
+  "path": "userfiles/ppt.png",
+  "route": "/userfiles/ppt.png",
+  "source": "http://sotm-eu.org/userfiles/ppt.png",
+  "timestamp": "20121215145748",
+  "wayback": "https://web.archive.org/web/20121215145748/http://sotm-eu.org/userfiles/ppt.png",
+  "mime_type": "image/png",
+  "bytes": 661
+ },
+ {
+  "path": "userfiles/pptx.png",
+  "route": "/userfiles/pptx.png",
+  "source": "http://sotm-eu.org/userfiles/pptx.png",
+  "timestamp": "20121215132502",
+  "wayback": "https://web.archive.org/web/20121215132502/http://sotm-eu.org/userfiles/pptx.png",
+  "mime_type": "image/png",
+  "bytes": 599
+ },
+ {
+  "path": "userfiles/proceedings_sotmEU2011.pdf",
+  "route": "/userfiles/proceedings_sotmEU2011.pdf",
+  "source": "http://sotm-eu.org/userfiles/proceedings_sotmEU2011.pdf",
+  "timestamp": "20131004224636",
+  "wayback": "https://web.archive.org/web/20131004224636/http://sotm-eu.org/userfiles/proceedings_sotmEU2011.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 16737334
+ },
+ {
+  "path": "userfiles/rss.png",
+  "route": "/userfiles/rss.png",
+  "source": "http://sotm-eu.org/userfiles/rss.png",
+  "timestamp": "20130621100456",
+  "wayback": "https://web.archive.org/web/20130621100456/http://sotm-eu.org/userfiles/rss.png",
+  "mime_type": "image/png",
+  "bytes": 1043
+ },
+ {
+  "path": "userfiles/sotm-eu-gruppenbild.jpg",
+  "route": "/userfiles/sotm-eu-gruppenbild.jpg",
+  "source": "http://sotm-eu.org/userfiles/sotm-eu-gruppenbild.jpg",
+  "timestamp": "20130621091223",
+  "wayback": "https://web.archive.org/web/20130621091223/http://sotm-eu.org/userfiles/sotm-eu-gruppenbild.jpg",
+  "mime_type": "image/jpeg",
+  "bytes": 121983
+ },
+ {
+  "path": "userfiles/sotm-europe_cfp.pdf",
+  "route": "/userfiles/sotm-europe_cfp.pdf",
+  "source": "http://sotm-eu.org/userfiles/sotm-europe_cfp.pdf",
+  "timestamp": "20121215153518",
+  "wayback": "https://web.archive.org/web/20121215153518/http://sotm-eu.org/userfiles/sotm-europe_cfp.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 304992
+ },
+ {
+  "path": "userfiles/sotm-europe_extended_cfp.pdf",
+  "route": "/userfiles/sotm-europe_extended_cfp.pdf",
+  "source": "http://sotm-eu.org/userfiles/sotm-europe_extended_cfp.pdf",
+  "timestamp": "20121215113150",
+  "wayback": "https://web.archive.org/web/20121215113150/http://sotm-eu.org/userfiles/sotm-europe_extended_cfp.pdf",
+  "mime_type": "application/pdf",
+  "bytes": 346532
+ },
+ {
+  "path": "userfiles/sotm-us2010.gif",
+  "route": "/userfiles/sotm-us2010.gif",
+  "source": "http://sotm-eu.org/userfiles/sotm-us2010.gif",
+  "timestamp": "20111101001429",
+  "wayback": "https://web.archive.org/web/20111101001429/http://sotm-eu.org/userfiles/sotm-us2010.gif",
+  "mime_type": "image/gif",
+  "bytes": 20659
+ },
+ {
+  "path": "userfiles/sotm2007_kl.png",
+  "route": "/userfiles/sotm2007_kl.png",
+  "source": "http://sotm-eu.org/userfiles/sotm2007_kl.png",
+  "timestamp": "20111101002203",
+  "wayback": "https://web.archive.org/web/20111101002203/http://sotm-eu.org/userfiles/sotm2007_kl.png",
+  "mime_type": "image/png",
+  "bytes": 731
+ },
+ {
+  "path": "userfiles/sotm2008_kl.png",
+  "route": "/userfiles/sotm2008_kl.png",
+  "source": "http://sotm-eu.org/userfiles/sotm2008_kl.png",
+  "timestamp": "20111101002514",
+  "wayback": "https://web.archive.org/web/20111101002514/http://sotm-eu.org/userfiles/sotm2008_kl.png",
+  "mime_type": "image/png",
+  "bytes": 1305
+ },
+ {
+  "path": "userfiles/sotm2009_kl.png",
+  "route": "/userfiles/sotm2009_kl.png",
+  "source": "http://sotm-eu.org/userfiles/sotm2009_kl.png",
+  "timestamp": "20111101002552",
+  "wayback": "https://web.archive.org/web/20111101002552/http://sotm-eu.org/userfiles/sotm2009_kl.png",
+  "mime_type": "image/png",
+  "bytes": 8888
+ },
+ {
+  "path": "userfiles/sotm2011.png",
+  "route": "/userfiles/sotm2011.png",
+  "source": "http://sotm-eu.org/userfiles/sotm2011.png",
+  "timestamp": "20111101002411",
+  "wayback": "https://web.archive.org/web/20111101002411/http://sotm-eu.org/userfiles/sotm2011.png",
+  "mime_type": "image/png",
+  "bytes": 27078
+ },
+ {
+  "path": "userfiles/sotmeu11.ics",
+  "route": "/userfiles/sotmeu11.ics",
+  "source": "http://sotm-eu.org/userfiles/sotmeu11.ics",
+  "timestamp": "20121215153811",
+  "wayback": "https://web.archive.org/web/20121215153811/http://sotm-eu.org/userfiles/sotmeu11.ics",
+  "mime_type": "text/calendar",
+  "bytes": 823
+ },
+ {
+  "path": "userfiles/toursprung.png",
+  "route": "/userfiles/toursprung.png",
+  "source": "http://sotm-eu.org/userfiles/toursprung.png",
+  "timestamp": "20130621082200",
+  "wayback": "https://web.archive.org/web/20130621082200/http://sotm-eu.org/userfiles/toursprung.png",
+  "mime_type": "image/png",
+  "bytes": 7557
+ },
+ {
+  "path": "userfiles/tsclogo_small.gif",
+  "route": "/userfiles/tsclogo_small.gif",
+  "source": "http://sotm-eu.org/userfiles/tsclogo_small.gif",
+  "timestamp": "20130114083939",
+  "wayback": "https://web.archive.org/web/20130114083939/http://sotm-eu.org/userfiles/tsclogo_small.gif",
+  "mime_type": "image/gif",
+  "bytes": 4395
+ },
+ {
+  "path": "userfiles/tucarto.gif",
+  "route": "/userfiles/tucarto.gif",
+  "source": "http://sotm-eu.org/userfiles/tucarto.gif",
+  "timestamp": "20130621080026",
+  "wayback": "https://web.archive.org/web/20130621080026/http://sotm-eu.org/userfiles/tucarto.gif",
+  "mime_type": "image/gif",
+  "bytes": 3795
+ },
+ {
+  "path": "userfiles/tupalo.png",
+  "route": "/userfiles/tupalo.png",
+  "source": "http://sotm-eu.org/userfiles/tupalo.png",
+  "timestamp": "20130621084741",
+  "wayback": "https://web.archive.org/web/20130621084741/http://sotm-eu.org/userfiles/tupalo.png",
+  "mime_type": "image/png",
+  "bytes": 1184
+ },
+ {
+  "path": "userfiles/tupalo_blog.png",
+  "route": "/userfiles/tupalo_blog.png",
+  "source": "http://sotm-eu.org/userfiles/tupalo_blog.png",
+  "timestamp": "20130701083823",
+  "wayback": "https://web.archive.org/web/20130701083823/http://sotm-eu.org/userfiles/tupalo_blog.png",
+  "mime_type": "image/png",
+  "bytes": 1472
+ },
+ {
+  "path": "userfiles/twitter.png",
+  "route": "/userfiles/twitter.png",
+  "source": "http://sotm-eu.org/userfiles/twitter.png",
+  "timestamp": "20130114083214",
+  "wayback": "https://web.archive.org/web/20130114083214/http://sotm-eu.org/userfiles/twitter.png",
+  "mime_type": "image/png",
+  "bytes": 484
+ },
+ {
+  "path": "userfiles/ulmon.png",
+  "route": "/userfiles/ulmon.png",
+  "source": "http://sotm-eu.org/userfiles/ulmon.png",
+  "timestamp": "20130114091750",
+  "wayback": "https://web.archive.org/web/20130114091750/http://sotm-eu.org/userfiles/ulmon.png",
+  "mime_type": "image/png",
+  "bytes": 3570
+ },
+ {
+  "path": "userfiles/url.png",
+  "route": "/userfiles/url.png",
+  "source": "http://sotm-eu.org/userfiles/url.png",
+  "timestamp": "20121215114948",
+  "wayback": "https://web.archive.org/web/20121215114948/http://sotm-eu.org/userfiles/url.png",
+  "mime_type": "image/png",
+  "bytes": 778
+ },
+ {
+  "path": "userfiles/vcb.png",
+  "route": "/userfiles/vcb.png",
+  "source": "http://sotm-eu.org/userfiles/vcb.png",
+  "timestamp": "20130701090913",
+  "wayback": "https://web.archive.org/web/20130701090913/http://sotm-eu.org/userfiles/vcb.png",
+  "mime_type": "image/png",
+  "bytes": 2653
+ },
+ {
+  "path": "userfiles/wiki16.png",
+  "route": "/userfiles/wiki16.png",
+  "source": "http://sotm-eu.org/userfiles/wiki16.png",
+  "timestamp": "20130622145507",
+  "wayback": "https://web.archive.org/web/20130622145507/http://sotm-eu.org/userfiles/wiki16.png",
+  "mime_type": "image/png",
+  "bytes": 773
+ },
+ {
+  "path": "userfiles/youtube.png",
+  "route": "/userfiles/youtube.png",
+  "source": "http://sotm-eu.org/userfiles/youtube.png",
+  "timestamp": "20130621100753",
+  "wayback": "https://web.archive.org/web/20130621100753/http://sotm-eu.org/userfiles/youtube.png",
+  "mime_type": "image/png",
+  "bytes": 292
+ },
+ {
+  "path": "venue/index.html",
+  "route": "/venue/",
+  "source": "http://sotm-eu.org/venue",
+  "timestamp": "20121215163806",
+  "wayback": "https://web.archive.org/web/20121215163806/http://sotm-eu.org/venue",
+  "mime_type": "text/html",
+  "bytes": 10684
+ },
+ {
+  "path": "video/15/index.html",
+  "route": "/video/15/",
+  "source": "http://sotm-eu.org/video?15",
+  "timestamp": "20121215162725",
+  "wayback": "https://web.archive.org/web/20121215162725/http://sotm-eu.org/video?15",
+  "mime_type": "text/html",
+  "bytes": 7684
+ },
+ {
+  "path": "video/17/index.html",
+  "route": "/video/17/",
+  "source": "http://sotm-eu.org/video?17",
+  "timestamp": "20121215163938",
+  "wayback": "https://web.archive.org/web/20121215163938/http://sotm-eu.org/video?17",
+  "mime_type": "text/html",
+  "bytes": 7678
+ },
+ {
+  "path": "videos/10_MaksimGurtovenko_MapCSS.mp4",
+  "route": "/videos/10_MaksimGurtovenko_MapCSS.ogg",
+  "source": "http://sotm-eu.org/videos/10_MaksimGurtovenko_MapCSS.ogg",
+  "timestamp": "20121215151414",
+  "wayback": "https://web.archive.org/web/20121215151414/http://sotm-eu.org/videos/10_MaksimGurtovenko_MapCSS.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 16712983
+ },
+ {
+  "path": "videos/12_SchuylerErle_HOT.mp4",
+  "route": "/videos/12_SchuylerErle_HOT.ogg",
+  "source": "http://sotm-eu.org/videos/12_SchuylerErle_HOT.ogg",
+  "timestamp": "20121215162829",
+  "wayback": "https://web.archive.org/web/20121215162829/http://sotm-eu.org/videos/12_SchuylerErle_HOT.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 50770690
+ },
+ {
+  "path": "videos/14_JochenTopf_OsmiumFramework.mp4",
+  "route": "/videos/14_JochenTopf_OsmiumFramework.ogg",
+  "source": "http://sotm-eu.org/videos/14_JochenTopf_OsmiumFramework.ogg",
+  "timestamp": "20121215112403",
+  "wayback": "https://web.archive.org/web/20121215112403/http://sotm-eu.org/videos/14_JochenTopf_OsmiumFramework.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 76306527
+ },
+ {
+  "path": "videos/16_BernhardZwischenbrugger_KHTML.mp4",
+  "route": "/videos/16_BernhardZwischenbrugger_KHTML.ogg",
+  "source": "http://sotm-eu.org/videos/16_BernhardZwischenbrugger_KHTML.ogg",
+  "timestamp": "20121215140131",
+  "wayback": "https://web.archive.org/web/20121215140131/http://sotm-eu.org/videos/16_BernhardZwischenbrugger_KHTML.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 94769254
+ },
+ {
+  "path": "videos/19_BenAbelshausen_OSMForLogistics.mp4",
+  "route": "/videos/19_BenAbelshausen_OSMForLogistics.ogg",
+  "source": "http://sotm-eu.org/videos/19_BenAbelshausen_OSMForLogistics.ogg",
+  "timestamp": "20121215120035",
+  "wayback": "https://web.archive.org/web/20121215120035/http://sotm-eu.org/videos/19_BenAbelshausen_OSMForLogistics.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 20927762
+ },
+ {
+  "path": "videos/1_MarkusBaerlocher_OpenSeaMap.mp4",
+  "route": "/videos/1_MarkusBaerlocher_OpenSeaMap.ogg",
+  "source": "http://sotm-eu.org/videos/1_MarkusBaerlocher_OpenSeaMap.ogg",
+  "timestamp": "20121215124843",
+  "wayback": "https://web.archive.org/web/20121215124843/http://sotm-eu.org/videos/1_MarkusBaerlocher_OpenSeaMap.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 59656773
+ },
+ {
+  "path": "videos/21_AndreiBejan_UrbanTrafficCongestion.mp4",
+  "route": "/videos/21_AndreiBejan_UrbanTrafficCongestion.ogg",
+  "source": "http://sotm-eu.org/videos/21_AndreiBejan_UrbanTrafficCongestion.ogg",
+  "timestamp": "20121215131437",
+  "wayback": "https://web.archive.org/web/20121215131437/http://sotm-eu.org/videos/21_AndreiBejan_UrbanTrafficCongestion.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 22632856
+ },
+ {
+  "path": "videos/22_PeterMooney_VVGI.mp4",
+  "route": "/videos/22_PeterMooney_VVGI.ogg",
+  "source": "http://sotm-eu.org/videos/22_PeterMooney_VVGI.ogg",
+  "timestamp": "20121215131926",
+  "wayback": "https://web.archive.org/web/20121215131926/http://sotm-eu.org/videos/22_PeterMooney_VVGI.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 50834292
+ },
+ {
+  "path": "videos/23_IgorBrejc_Maperitive.mp4",
+  "route": "/videos/23_IgorBrejc_Maperitive.ogg",
+  "source": "http://sotm-eu.org/videos/23_IgorBrejc_Maperitive.ogg",
+  "timestamp": "20121215122436",
+  "wayback": "https://web.archive.org/web/20121215122436/http://sotm-eu.org/videos/23_IgorBrejc_Maperitive.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 52812755
+ },
+ {
+  "path": "videos/27_VladimirElistratov_OSMbuildings.mp4",
+  "route": "/videos/27_VladimirElistratov_OSMbuildings.ogg",
+  "source": "http://sotm-eu.org/videos/27_VladimirElistratov_OSMbuildings.ogg",
+  "timestamp": "20121215150932",
+  "wayback": "https://web.archive.org/web/20121215150932/http://sotm-eu.org/videos/27_VladimirElistratov_OSMbuildings.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 17471936
+ },
+ {
+  "path": "videos/29_StephanPlepelits_OpenStreetBrowser.mp4",
+  "route": "/videos/29_StephanPlepelits_OpenStreetBrowser.ogg",
+  "source": "http://sotm-eu.org/videos/29_StephanPlepelits_OpenStreetBrowser.ogg",
+  "timestamp": "20121215153254",
+  "wayback": "https://web.archive.org/web/20121215153254/http://sotm-eu.org/videos/29_StephanPlepelits_OpenStreetBrowser.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 25786985
+ },
+ {
+  "path": "videos/31_PatrickWeber_ImproveEditors.mp4",
+  "route": "/videos/31_PatrickWeber_ImproveEditors.ogg",
+  "source": "http://sotm-eu.org/videos/31_PatrickWeber_ImproveEditors.ogg",
+  "timestamp": "20121215111750",
+  "wayback": "https://web.archive.org/web/20121215111750/http://sotm-eu.org/videos/31_PatrickWeber_ImproveEditors.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 36656602
+ },
+ {
+  "path": "videos/32_DrazenOdobasic_Kartalog.mp4",
+  "route": "/videos/32_DrazenOdobasic_Kartalog.ogg",
+  "source": "http://sotm-eu.org/videos/32_DrazenOdobasic_Kartalog.ogg",
+  "timestamp": "20121215124456",
+  "wayback": "https://web.archive.org/web/20121215124456/http://sotm-eu.org/videos/32_DrazenOdobasic_Kartalog.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 21780730
+ },
+ {
+  "path": "videos/35_EnricoSteiger_TrafficMap2.mp4",
+  "route": "/videos/35_EnricoSteiger_TrafficMap2.ogg",
+  "source": "http://sotm-eu.org/videos/35_EnricoSteiger_TrafficMap2.ogg",
+  "timestamp": "20121215130346",
+  "wayback": "https://web.archive.org/web/20121215130346/http://sotm-eu.org/videos/35_EnricoSteiger_TrafficMap2.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 20058915
+ },
+ {
+  "path": "videos/36_MartinChristen_OpenWebGlobeSDK.mp4",
+  "route": "/videos/36_MartinChristen_OpenWebGlobeSDK.ogg",
+  "source": "http://sotm-eu.org/videos/36_MartinChristen_OpenWebGlobeSDK.ogg",
+  "timestamp": "20121215145253",
+  "wayback": "https://web.archive.org/web/20121215145253/http://sotm-eu.org/videos/36_MartinChristen_OpenWebGlobeSDK.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 23801198
+ },
+ {
+  "path": "videos/37_GregorHorsinka_Ontology.mp4",
+  "route": "/videos/37_GregorHorsinka_Ontology.ogg",
+  "source": "http://sotm-eu.org/videos/37_GregorHorsinka_Ontology.ogg",
+  "timestamp": "20121215171028",
+  "wayback": "https://web.archive.org/web/20121215171028/http://sotm-eu.org/videos/37_GregorHorsinka_Ontology.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 22407563
+ },
+ {
+  "path": "videos/3_AngiVoss_ComparisonWithNavteq.mp4",
+  "route": "/videos/3_AngiVoss_ComparisonWithNavteq.ogg",
+  "source": "http://sotm-eu.org/videos/3_AngiVoss_ComparisonWithNavteq.ogg",
+  "timestamp": "20121215131025",
+  "wayback": "https://web.archive.org/web/20121215131025/http://sotm-eu.org/videos/3_AngiVoss_ComparisonWithNavteq.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 16203230
+ },
+ {
+  "path": "videos/40_RolandOlbricht_OverpassAPI.mp4",
+  "route": "/videos/40_RolandOlbricht_OverpassAPI.ogg",
+  "source": "http://sotm-eu.org/videos/40_RolandOlbricht_OverpassAPI.ogg",
+  "timestamp": "20121215164412",
+  "wayback": "https://web.archive.org/web/20121215164412/http://sotm-eu.org/videos/40_RolandOlbricht_OverpassAPI.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 66520291
+ },
+ {
+  "path": "videos/42_AlPascual_ArcGIS.mp4",
+  "route": "/videos/42_AlPascual_ArcGIS.ogg",
+  "source": "http://sotm-eu.org/videos/42_AlPascual_ArcGIS.ogg",
+  "timestamp": "20121215152013",
+  "wayback": "https://web.archive.org/web/20121215152013/http://sotm-eu.org/videos/42_AlPascual_ArcGIS.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 26257788
+ },
+ {
+  "path": "videos/48_NickWhitelegg_OpenTrail.mp4",
+  "route": "/videos/48_NickWhitelegg_OpenTrail.ogg",
+  "source": "http://sotm-eu.org/videos/48_NickWhitelegg_OpenTrail.ogg",
+  "timestamp": "20121215121445",
+  "wayback": "https://web.archive.org/web/20121215121445/http://sotm-eu.org/videos/48_NickWhitelegg_OpenTrail.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 26761799
+ },
+ {
+  "path": "videos/4_ThomasSchulteHillen_ExpressLogisticsBangalore.mp4",
+  "route": "/videos/4_ThomasSchulteHillen_ExpressLogisticsBangalore.ogg",
+  "source": "http://sotm-eu.org/videos/4_ThomasSchulteHillen_ExpressLogisticsBangalore.ogg",
+  "timestamp": "20121215150246",
+  "wayback": "https://web.archive.org/web/20121215150246/http://sotm-eu.org/videos/4_ThomasSchulteHillen_ExpressLogisticsBangalore.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 27454579
+ },
+ {
+  "path": "videos/50_SvenLeitinger_MobileApp.mp4",
+  "route": "/videos/50_SvenLeitinger_MobileApp.ogg",
+  "source": "http://sotm-eu.org/videos/50_SvenLeitinger_MobileApp.ogg",
+  "timestamp": "20121215165748",
+  "wayback": "https://web.archive.org/web/20121215165748/http://sotm-eu.org/videos/50_SvenLeitinger_MobileApp.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 14495262
+ },
+ {
+  "path": "videos/52_AndyAllan_Potlatch2.mp4",
+  "route": "/videos/52_AndyAllan_Potlatch2.ogg",
+  "source": "http://sotm-eu.org/videos/52_AndyAllan_Potlatch2.ogg",
+  "timestamp": "20121215171447",
+  "wayback": "https://web.archive.org/web/20121215171447/http://sotm-eu.org/videos/52_AndyAllan_Potlatch2.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 46795280
+ },
+ {
+  "path": "videos/54_AnnetteThurow_OSMForBlindUsers.mp4",
+  "route": "/videos/54_AnnetteThurow_OSMForBlindUsers.ogg",
+  "source": "http://sotm-eu.org/videos/54_AnnetteThurow_OSMForBlindUsers.ogg",
+  "timestamp": "20121215152516",
+  "wayback": "https://web.archive.org/web/20121215152516/http://sotm-eu.org/videos/54_AnnetteThurow_OSMForBlindUsers.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 40868276
+ },
+ {
+  "path": "videos/55_MichaelZilske_TrafficSimulation.mp4",
+  "route": "/videos/55_MichaelZilske_TrafficSimulation.ogg",
+  "source": "http://sotm-eu.org/videos/55_MichaelZilske_TrafficSimulation.ogg",
+  "timestamp": "20121215125841",
+  "wayback": "https://web.archive.org/web/20121215125841/http://sotm-eu.org/videos/55_MichaelZilske_TrafficSimulation.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 13948763
+ },
+ {
+  "path": "videos/58_HermannKraus_MapnikMetawriters.mp4",
+  "route": "/videos/58_HermannKraus_MapnikMetawriters.ogg",
+  "source": "http://sotm-eu.org/videos/58_HermannKraus_MapnikMetawriters.ogg",
+  "timestamp": "20121215115031",
+  "wayback": "https://web.archive.org/web/20121215115031/http://sotm-eu.org/videos/58_HermannKraus_MapnikMetawriters.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 49700005
+ },
+ {
+  "path": "videos/59_EdFreyfogle_Mapstraction.mp4",
+  "route": "/videos/59_EdFreyfogle_Mapstraction.ogg",
+  "source": "http://sotm-eu.org/videos/59_EdFreyfogle_Mapstraction.ogg",
+  "timestamp": "20121215163629",
+  "wayback": "https://web.archive.org/web/20121215163629/http://sotm-eu.org/videos/59_EdFreyfogle_Mapstraction.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 15665714
+ },
+ {
+  "path": "videos/61_HaraldKleiner_KeepRight.mp4",
+  "route": "/videos/61_HaraldKleiner_KeepRight.ogg",
+  "source": "http://sotm-eu.org/videos/61_HaraldKleiner_KeepRight.ogg",
+  "timestamp": "20121215114440",
+  "wayback": "https://web.archive.org/web/20121215114440/http://sotm-eu.org/videos/61_HaraldKleiner_KeepRight.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 43183837
+ },
+ {
+  "path": "videos/62_BartoszFabianowski_CustomPrintedMaps.mp4",
+  "route": "/videos/62_BartoszFabianowski_CustomPrintedMaps.ogg",
+  "source": "http://sotm-eu.org/videos/62_BartoszFabianowski_CustomPrintedMaps.ogg",
+  "timestamp": "20121215141446",
+  "wayback": "https://web.archive.org/web/20121215141446/http://sotm-eu.org/videos/62_BartoszFabianowski_CustomPrintedMaps.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 57630105
+ },
+ {
+  "path": "videos/63_OliverRoick_OSMatrix.mp4",
+  "route": "/videos/63_OliverRoick_OSMatrix.ogg",
+  "source": "http://sotm-eu.org/videos/63_OliverRoick_OSMatrix.ogg",
+  "timestamp": "20121215164052",
+  "wayback": "https://web.archive.org/web/20121215164052/http://sotm-eu.org/videos/63_OliverRoick_OSMatrix.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 24011116
+ },
+ {
+  "path": "videos/66_MaurizioNapolitano_MVPOSM.mp4",
+  "route": "/videos/66_MaurizioNapolitano_MVPOSM.ogg",
+  "source": "http://sotm-eu.org/videos/66_MaurizioNapolitano_MVPOSM.ogg",
+  "timestamp": "20121215113334",
+  "wayback": "https://web.archive.org/web/20121215113334/http://sotm-eu.org/videos/66_MaurizioNapolitano_MVPOSM.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 29105165
+ },
+ {
+  "path": "videos/67_AndrzejZaborowski_ArealSurveying.mp4",
+  "route": "/videos/67_AndrzejZaborowski_ArealSurveying.ogg",
+  "source": "http://sotm-eu.org/videos/67_AndrzejZaborowski_ArealSurveying.ogg",
+  "timestamp": "20121215120545",
+  "wayback": "https://web.archive.org/web/20121215120545/http://sotm-eu.org/videos/67_AndrzejZaborowski_ArealSurveying.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 32241433
+ },
+ {
+  "path": "videos/70_OliverOBrien_GEMMA.mp4",
+  "route": "/videos/70_OliverOBrien_GEMMA.ogg",
+  "source": "http://sotm-eu.org/videos/70_OliverOBrien_GEMMA.ogg",
+  "timestamp": "20121215133522",
+  "wayback": "https://web.archive.org/web/20121215133522/http://sotm-eu.org/videos/70_OliverOBrien_GEMMA.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 46321514
+ },
+ {
+  "path": "videos/73_AlexanderZipf_OSM3D.mp4",
+  "route": "/videos/73_AlexanderZipf_OSM3D.ogg",
+  "source": "http://sotm-eu.org/videos/73_AlexanderZipf_OSM3D.ogg",
+  "timestamp": "20121215142407",
+  "wayback": "https://web.archive.org/web/20121215142407/http://sotm-eu.org/videos/73_AlexanderZipf_OSM3D.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 59483513
+ },
+ {
+  "path": "videos/74_DennisLuxen_Routing.mp4",
+  "route": "/videos/74_DennisLuxen_Routing.ogg",
+  "source": "http://sotm-eu.org/videos/74_DennisLuxen_Routing.ogg",
+  "timestamp": "20121215134921",
+  "wayback": "https://web.archive.org/web/20121215134921/http://sotm-eu.org/videos/74_DennisLuxen_Routing.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 49900535
+ },
+ {
+  "path": "videos/77_HenkHoff_Welcome.mp4",
+  "route": "/videos/77_HenkHoff_Welcome.ogg",
+  "source": "http://sotm-eu.org/videos/77_HenkHoff_Welcome.ogg",
+  "timestamp": "20121215170545",
+  "wayback": "https://web.archive.org/web/20121215170545/http://sotm-eu.org/videos/77_HenkHoff_Welcome.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": 20042106
+ },
+ {
+  "path": "videos/7_MichalPalenik_freemapSK.mp4",
+  "route": "/videos/7_MichalPalenik_freemapSK.ogg",
+  "source": "http://sotm-eu.org/videos/7_MichalPalenik_freemapSK.ogg",
+  "timestamp": "20121215165143",
+  "wayback": "https://web.archive.org/web/20121215165143/http://sotm-eu.org/videos/7_MichalPalenik_freemapSK.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": null
+ },
+ {
+  "path": "videos/8_GregoryMarler_ProjectedHillMap.mp4",
+  "route": "/videos/8_GregoryMarler_ProjectedHillMap.ogg",
+  "source": "http://sotm-eu.org/videos/8_GregoryMarler_ProjectedHillMap.ogg",
+  "timestamp": "20121215170134",
+  "wayback": "https://web.archive.org/web/20121215170134/http://sotm-eu.org/videos/8_GregoryMarler_ProjectedHillMap.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": null
+ },
+ {
+  "path": "videos/9_MarcelHoevelmann_TransportAssociation.mp4",
+  "route": "/videos/9_MarcelHoevelmann_TransportAssociation.ogg",
+  "source": "http://sotm-eu.org/videos/9_MarcelHoevelmann_TransportAssociation.ogg",
+  "timestamp": "20121215132927",
+  "wayback": "https://web.archive.org/web/20121215132927/http://sotm-eu.org/videos/9_MarcelHoevelmann_TransportAssociation.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": null
+ },
+ {
+  "path": "videos/HenkHoff_OSMF_How_do_we_want_to_be_governed.mp4",
+  "route": "/videos/HenkHoff_OSMF_How_do_we_want_to_be_governed.mp4",
+  "source": "http://sotm-eu.org/videos/HenkHoff_OSMF_How_do_we_want_to_be_governed.mp4",
+  "timestamp": "20121215132607",
+  "wayback": "https://web.archive.org/web/20121215132607/http://sotm-eu.org/videos/HenkHoff_OSMF_How_do_we_want_to_be_governed.mp4",
+  "mime_type": "video/mp4",
+  "bytes": 17380905
+ },
+ {
+  "path": "videos/ImportsPanel.mp4",
+  "route": "/videos/ImportsPanel.ogg",
+  "source": "http://sotm-eu.org/videos/ImportsPanel.ogg",
+  "timestamp": "20121215154122",
+  "wayback": "https://web.archive.org/web/20111101052253/http://sotm-eu.org/videos/ImportsPanel.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": null
+ },
+ {
+  "path": "videos/LT06_Komzpa_TWMS.mp4",
+  "route": "/videos/LT06_Komzpa_TWMS.mp4",
+  "source": "http://sotm-eu.org/videos/LT06_Komzpa_TWMS.mp4",
+  "timestamp": "20121215114320",
+  "wayback": "https://web.archive.org/web/20121215114320/http://sotm-eu.org/videos/LT06_Komzpa_TWMS.mp4",
+  "mime_type": "video/mp4",
+  "bytes": 8946853
+ },
+ {
+  "path": "videos/LT07_GeorgyPotapov_FireMonitoring.mp4",
+  "route": "/videos/LT07_GeorgyPotapov_FireMonitoring.mp4",
+  "source": "http://sotm-eu.org/videos/LT07_GeorgyPotapov_FireMonitoring.mp4",
+  "timestamp": "20121215163821",
+  "wayback": "https://web.archive.org/web/20121215163821/http://sotm-eu.org/videos/LT07_GeorgyPotapov_FireMonitoring.mp4",
+  "mime_type": "video/mp4",
+  "bytes": 10717396
+ },
+ {
+  "path": "videos/LT08_MartinKolman_modRana.mp4",
+  "route": "/videos/LT08_MartinKolman_modRana.mp4",
+  "source": "http://sotm-eu.org/videos/LT08_MartinKolman_modRana.mp4",
+  "timestamp": "20121215130113",
+  "wayback": "https://web.archive.org/web/20121215130113/http://sotm-eu.org/videos/LT08_MartinKolman_modRana.mp4",
+  "mime_type": "video/mp4",
+  "bytes": 5154104
+ },
+ {
+  "path": "videos/LT09_AlesJanda_3Dmap_in_POVRay.mp4",
+  "route": "/videos/LT09_AlesJanda_3Dmap_in_POVRay.mp4",
+  "source": "http://sotm-eu.org/videos/LT09_AlesJanda_3Dmap_in_POVRay.mp4",
+  "timestamp": "20121215121349",
+  "wayback": "https://web.archive.org/web/20121215121349/http://sotm-eu.org/videos/LT09_AlesJanda_3Dmap_in_POVRay.mp4",
+  "mime_type": "video/mp4",
+  "bytes": 11887855
+ },
+ {
+  "path": "videos/LT10_YuweiLin_Sukey+Maxamundo.mp4",
+  "route": "/videos/LT10_YuweiLin_Sukey+Maxamundo.mp4",
+  "source": "http://sotm-eu.org/videos/LT10_YuweiLin_Sukey%2BMaxamundo.mp4",
+  "timestamp": "20121215114412",
+  "wayback": "https://web.archive.org/web/20121215114412/http://sotm-eu.org/videos/LT10_YuweiLin_Sukey%2BMaxamundo.mp4",
+  "mime_type": "video/mp4",
+  "bytes": 7512729
+ },
+ {
+  "path": "videos/LT11_DarafeiPraliaskouski_latlon_org_OSMBelarus.mp4",
+  "route": "/videos/LT11_DarafeiPraliaskouski_latlon_org_OSMBelarus.mp4",
+  "source": "http://sotm-eu.org/videos/LT11_DarafeiPraliaskouski_latlon_org_OSMBelarus.mp4",
+  "timestamp": "20121215143213",
+  "wayback": "https://web.archive.org/web/20121215143213/http://sotm-eu.org/videos/LT11_DarafeiPraliaskouski_latlon_org_OSMBelarus.mp4",
+  "mime_type": "video/mp4",
+  "bytes": 10295767
+ },
+ {
+  "path": "videos/MukiHaklay.mp4",
+  "route": "/videos/MukiHaklay.ogg",
+  "source": "http://sotm-eu.org/videos/MukiHaklay.ogg",
+  "timestamp": "20121215144012",
+  "wayback": "https://web.archive.org/web/20121215144012/http://sotm-eu.org/videos/MukiHaklay.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": null
+ },
+ {
+  "path": "videos/SteveChilton.mp4",
+  "route": "/videos/SteveChilton.ogg",
+  "source": "http://sotm-eu.org/videos/SteveChilton.ogg",
+  "timestamp": "20121215143529",
+  "wayback": "https://web.archive.org/web/20121215143529/http://sotm-eu.org/videos/SteveChilton.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": null
+ },
+ {
+  "path": "videos/SteveCoast.mp4",
+  "route": "/videos/SteveCoast.ogg",
+  "source": "http://sotm-eu.org/videos/SteveCoast.ogg",
+  "timestamp": "20121215123239",
+  "wayback": "https://web.archive.org/web/20121215123239/http://sotm-eu.org/videos/SteveCoast.ogg",
+  "mime_type": "audio/ogg",
+  "bytes": null
+ }
+]
